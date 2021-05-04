@@ -254,14 +254,6 @@ http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",True Premier HD 5 
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",AstroSport1
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",AstroSport2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",AstroSport3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",AstroSport4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",TrueSport1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",TrueSport2
@@ -278,6 +270,15 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",SportTv5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",AstroSport1
+http://tv.supertv4u.eu:8000/live/manuvip/p8PEVf0ZNg/2360.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",AstroSport2
+http://tv.supertv4u.eu:8000/live/manuvip/p8PEVf0ZNg/2359.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",AstroSport3
+http://tv.supertv4u.eu:8000/live/manuvip/p8PEVf0ZNg/2358.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",AstroSport4
+http://tv.supertv4u.eu:8000/live/manuvip/p8PEVf0ZNg/2357.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BEINS SPORTS PREMIUM 1 SD" tvg-logo="http://bl3rbe.net/up/rVdRv51.png" group-title="BEIN SPORT SD",BEINS SPORTS PREMIUM 1 SD
 http://cobraa.in:8000/265262552526/CkSas5bDKK/3078

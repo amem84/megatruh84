@@ -346,6 +346,14 @@ http://cobraa.in:8000/265262552526/CkSas5bDKK/3119
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Amem@HBO",HBO HD
 https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng6h-TevXIWt0L3T75TOWVRz19zi09C061D3FWUl6Y=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@HBO",HBO Malay
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng6h-TevXIWt0L3T75TOWVRz19zi09C061D3FWUl6Y=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@HBO",HB 3
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng6h-TevXIWt0L3T75TOWVRz19zi09C061D3FWUl6Y=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@HBO",HBO Hits Malay
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng6h-TevXIWt0L3T75TOWVRz19zi09C061D3FWUl6Y=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@HBO",HBO Signature Malay
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://st3.depositphotos.com/27847728/36619/v/600/depositphotos_366195626-stock-illustration-initial-logo-design-vector-template.jpg" group-title="Amem@Sports", ZQ Sport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8

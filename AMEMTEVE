@@ -288,7 +288,47 @@ http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/140
 http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/141
 #EXTINF:0 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" group-title="PREMIUMMSport",TSN 5
 http://ok2.se:8000/77e7F7U6Qt2QfrrJS/507cF9UtAz12k9eFv/142
+#EXTINF:-1 group-title="PREMIUMMSport",Bu- Diema Sport 1
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33189
+#EXTINF:-1 group-title="PREMIUMMSport",Bu- Diema Sport 2
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33187
 
+#EXTINF:-1 group-title="Sprots UK",Uk- Premier Sports 1 HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33296
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky Sports News HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33312
+#EXTINF:-1 group-title="Sprots UK",Uk- FOX SPORTS
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33278
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky Eir Sport 1
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33557
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky Eir Sport 2
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33558
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky BT Sport 3 HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33577
+#EXTINF:-1 group-title="Sprots UK",UK- Sky Sport Arena HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33599
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky BT Sport 1 HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33630
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky BT Sport 2 HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33631
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky EuroSport 1 HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33633
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky EuroSport 2 HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33634
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky Sport Football
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33638
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky Sports Main Event HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33639
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky Sports Cricket HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33640
+#EXTINF:-1 group-title="Sprots UK",UK- Sky Sports Golf HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33642
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky Sports Premier League HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33643
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky Sports F1 HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33644
+#EXTINF:-1 group-title="Sprots UK",Uk- Sky Sports Mix HD
+http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33645
 
 #EXTINF:-1 tvg-id="" tvg-name="BEINS SPORTS PREMIUM 1 SD" tvg-logo="http://bl3rbe.net/up/rVdRv51.png" group-title="BEIN SPORT SD",BEINS SPORTS PREMIUM 1 SD
 http://cobraa.in:8000/265262552526/CkSas5bDKK/3078

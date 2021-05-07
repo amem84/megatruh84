@@ -350,58 +350,6 @@ http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33644
 #EXTINF:-1 group-title="Sprots UK",Uk- Sky Sports Mix HD
 http://linux-app.tv:8080/xxxxxx/oA85P1fpBP/33645
 
-#EXTINF: -1 group-title="|FR|",BEIN SPORTS 1 HD FR
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1893
-#EXTINF: -1 group-title="|FR|",BEIN SPORTS 2 HD FR
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1892
-#EXTINF: -1 group-title="|FR|",BEIN SPORTS 3 HD FR
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1891
-#EXTINF: -1 group-title="|FR|",BEIN SPORT MAX 4 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1890
-#EXTINF: -1 group-title="|FR|",BEIN SPORT MAX 5 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1889
-#EXTINF: -1 group-title="|FR|",BEIN SPORT MAX 6 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1888
-#EXTINF: -1 group-title="|FR|",BEIN SPORT MAX 7 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1887
-#EXTINF: -1 group-title="|FR|",BEIN SPORT MAX 8 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1886
-#EXTINF: -1 group-title="|FR|",BEIN SPORT MAX 9 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1885
-#EXTINF: -1 group-title="|FR|",BEIN SPORT MAX 10 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1884
-#EXTINF: -1 group-title="|FR|",RMC SPORT 1 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1883
-#EXTINF: -1 group-title="|FR|",RMC SPORT 2 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1882
-#EXTINF: -1 group-title="|FR|",RMC SPORT 3 FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1881
-#EXTINF: -1 group-title="|FR|",RMC SPORT 5 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1880
-
-#EXTINF: -1 group-title="|TR|",BEINSPORTS HABER FHD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1809
-#EXTINF: -1 group-title="|TR|",BEINSPORTS 1 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1808
-#EXTINF: -1 group-title="|TR|",BEINSPORTS 1 HD *
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1807
-#EXTINF: -1 group-title="|TR|",BEINSPORTS 2 HD TR
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1804
-#EXTINF: -1 group-title="|TR|",BEINSPORTS 2 HD TR YEDEK
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1803
-#EXTINF: -1 group-title="|TR|",BEINSPORTS 3 HD TR
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1802
-#EXTINF: -1 group-title="|TR|",BEINSPORTS 3 HD TR YEDEK
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1801
-#EXTINF: -1 group-title="|TR|",BEINSPORTS 4 HD TR
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1800
-#EXTINF: -1 group-title="|TR|",BEIN SPORTS MAX 1 HD TR
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1798
-#EXTINF: -1 group-title="|TR|",BEIN SPORTS MAX 2 HD TR
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1797
-#EXTINF: -1 group-title="|TR|",EUROSPORT 1 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/1794
-
 #EXTINF:-1 tvg-logo="https://st3.depositphotos.com/27847728/36619/v/600/depositphotos_366195626-stock-illustration-initial-logo-design-vector-template.jpg" group-title="Amem@Sports", ZQ Sport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8
 #EXTINF:-1 tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2019/6/26/660x290/b_1200x680/pakistan-vs-new-zealand-live-streaming-on-ptv-sports-and-hotstarcom-image-via-ptv-sprots_2284705.jpg" group-title="Amem@Sports", PTV Sport
@@ -480,3 +428,56 @@ http://www.supercartube.com/media/videos/h264/170_480p.mp4
 http://www.supercartube.com/media/videos/h264/171_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 026  
 http://www.supercartube.com/media/videos/h264/172_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT: A Hero's Legacy (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reNPMjkPg9f6wgf6kHSSkKjBarL.jpg" group-title="Dragon Ball",Dragon Ball GT: A Hero's Legacy (1997)
+https://nonton.site:8443/movie/6894864475/7163819284/35447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f03YksE4NggUjG75toz4H1YAGRf.jpg" group-title="Dragon Ball",Dragon Ball Super: Broly - 2018
+https://nonton.site:8443/movie/6894864475/7163819284/10759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Bardock - The Father of Goku - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCjp8HJ4XANcB0FxoOztq9cF1pS.jpg" group-title="Dragon Ball",Dragon Ball Z: Bardock - The Father of Goku - 1990
+https://nonton.site:8443/movie/6894864475/7163819284/10762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Battle of Gods - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xI5LlCzSkp8iFSbmla0Dh4iT5ie.jpg" group-title="Dragon Ball",Dragon Ball Z: Battle of Gods - 2013
+https://nonton.site:8443/movie/6894864475/7163819284/10760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Bio-Broly (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zndqKR7TTDVWMgD0CSqARVugXoP.jpg" group-title="Dragon Ball",Dragon Ball Z: Bio-Broly (1994)
+https://nonton.site:8443/movie/6894864475/7163819284/36080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Bojack Unbound - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iihTK9Af8G1ZzBjkIIAV4qQMkzF.jpg" group-title="Dragon Ball",Dragon Ball Z: Bojack Unbound - 1993
+https://nonton.site:8443/movie/6894864475/7163819284/10771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Broly – Second Coming - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CkArpSqySpBQH95Oqr94ktU6rU.jpg" group-title="Dragon Ball",Dragon Ball Z: Broly – Second Coming - 1994
+https://nonton.site:8443/movie/6894864475/7163819284/10936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Broly – Second Coming (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CkArpSqySpBQH95Oqr94ktU6rU.jpg" group-title="Dragon Ball",Dragon Ball Z: Broly – Second Coming (1994)
+https://nonton.site:8443/movie/6894864475/7163819284/36081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Broly – The Legendary Super Saiyan - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iO8TJCyLI4BiPYOvdwzPV2bhoV.jpg" group-title="Dragon Ball",Dragon Ball Z: Broly – The Legendary Super Saiyan - 1993
+https://nonton.site:8443/movie/6894864475/7163819284/10935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Cooler's Revenge - 1991" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywZWtNVTO7rGSFvOAPWpdmZlO6k.jpg" group-title="Dragon Ball",Dragon Ball Z: Cooler's Revenge - 1991
+https://nonton.site:8443/movie/6894864475/7163819284/10763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Dead Zone (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywtyEDTM2YO7qod7USNNwhrAfvA.jpg" group-title="Dragon Ball",Dragon Ball Z: Dead Zone (1989)
+https://nonton.site:8443/movie/6894864475/7163819284/35445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Fusion Reborn - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AHvaEAeQfkfJ4OqcBePxa2ao09.jpg" group-title="Dragon Ball",Dragon Ball Z: Fusion Reborn - 1995
+https://nonton.site:8443/movie/6894864475/7163819284/10934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Lord Slug (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lmwZTsqwTtvd3m60pyQfhGM2Ut.jpg" group-title="Dragon Ball",Dragon Ball Z: Lord Slug (1991)
+https://nonton.site:8443/movie/6894864475/7163819284/35444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Resurrection 'F' - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ociFZNFVtfvlimInD56ULtPHGsb.jpg" group-title="Dragon Ball",Dragon Ball Z: Resurrection 'F' - 2015
+https://nonton.site:8443/movie/6894864475/7163819284/10761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: The History of Trunks (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfUkiiR0UKeiPXPgTx9bRO4snTB.jpg" group-title="Dragon Ball",Dragon Ball Z: The History of Trunks (1993)
+https://nonton.site:8443/movie/6894864475/7163819284/35449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: The Return of Cooler (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJn14ySh0NTZCOIReQZiWE1fkje.jpg" group-title="Dragon Ball",Dragon Ball Z: The Return of Cooler (1992)
+https://nonton.site:8443/movie/6894864475/7163819284/36075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: The Tree of Might - 1990" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDX4Dp8IKvjBAaEb5MOJrGkxWX0.jpg" group-title="Dragon Ball",Dragon Ball Z: The Tree of Might - 1990
+https://nonton.site:8443/movie/6894864475/7163819284/14962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: The World's Strongest (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5elbm3iLgGQ6nA5vqUmi9vIojbF.jpg" group-title="Dragon Ball",Dragon Ball Z: The World's Strongest (1990)
+https://nonton.site:8443/movie/6894864475/7163819284/35446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Wrath of the Dragon - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd3argrGcs6mEHYPmnVHrP11sCG.jpg" group-title="Dragon Ball",Dragon Ball Z: Wrath of the Dragon - 1995
+https://nonton.site:8443/movie/6894864475/7163819284/10938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Curse of the Blood Rubies (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZCWRFJnwyxYOhzAhf7Xyru4moB.jpg" group-title="Dragon Ball",Dragon Ball: Curse of the Blood Rubies (1986)
+https://nonton.site:8443/movie/6894864475/7163819284/36077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Episode of Bardock - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38Fz0sOMol1GIsp3LKEWDYSxUL7.jpg" group-title="Dragon Ball",Dragon Ball: Episode of Bardock - 2011
+https://nonton.site:8443/movie/6894864475/7163819284/10939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Mystical Adventure (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2oMo9y1WtJsM0EUytKRtZlREE3.jpg" group-title="Dragon Ball",Dragon Ball: Mystical Adventure (1988)
+https://nonton.site:8443/movie/6894864475/7163819284/36079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Plan to Eradicate the Super Saiyans - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emJVYJa177MOBcs5goOxjP0skAo.jpg" group-title="Dragon Ball",Dragon Ball: Plan to Eradicate the Super Saiyans - 2010
+https://nonton.site:8443/movie/6894864475/7163819284/10940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Sleeping Princess in Devil's Castle (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPmA7dtMUoh6fK8XjauoKB4FcSu.jpg" group-title="Dragon Ball",Dragon Ball: Sleeping Princess in Devil's Castle (1987)
+https://nonton.site:8443/movie/6894864475/7163819284/36078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: The Path to Power (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuW7jeE7pX7glnZpCcJZGfC0YSr.jpg" group-title="Dragon Ball",Dragon Ball: The Path to Power (1996)
+https://nonton.site:8443/movie/6894864475/7163819284/36076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Yo! Son Goku and His Friends Return!! (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0tBLECAYhOmzJmQmpfoFH8Syyp.jpg" group-title="Dragon Ball",Dragon Ball: Yo! Son Goku and His Friends Return!! (2008)
+https://nonton.site:8443/movie/6894864475/7163819284/35448.mp4

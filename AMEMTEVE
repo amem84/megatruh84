@@ -12,6 +12,19 @@ http://gooserace.xyz:2052/armando/armando/2599208
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO Arena HD" tvg-logo="" group-title="ASSP",MY: ASTRO Arena HD
 http://gooserace.xyz:2052/armando/armando/2599207
 
+#EXTINF:-1 tvg-id="" tvg-name="USA: beIN Sports 1 HD*" tvg-logo="" group-title="*USA",USA: beIN Sports 1 HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60368
+#EXTINF:-1 tvg-id="" tvg-name="USA: bein Sports USA HD" tvg-logo="" group-title="*USA",USA: bein Sports USA HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60369
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bein Sports 2 (ES)" tvg-logo="" group-title="*USA",USA: Bein Sports 2 (ES)
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60370
+#EXTINF:-1 tvg-id="" tvg-name="USA: BeIN Sports 3 HD*" tvg-logo="" group-title="*USA",USA: BeIN Sports 3 HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60371
+#EXTINF:-1 tvg-id="" tvg-name="USA: BeIN Sports 4 HD*" tvg-logo="" group-title="*USA",USA: BeIN Sports 4 HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60372
+#EXTINF:-1 tvg-id="" tvg-name="USA: BeIN SPORTS 5 HD*" tvg-logo="" group-title="*USA",USA: BeIN SPORTS 5 HD*
+http://tv1.cs10.tv:80/leopoldo/leopoldo/60373
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: SPORT 01" tvg-logo="http://tesprologs.xyz/Logos/BeingMena-WHITE/01.png" group-title="BEIN MENA",BEIN: SPORT 01
 http://gooserace.xyz:2052/armando/armando/2586458
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: SPORT 02" tvg-logo="http://tesprologs.xyz/Logos/BeingMena-WHITE/02.png" group-title="BEIN MENA",BEIN: SPORT 02

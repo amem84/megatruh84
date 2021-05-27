@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF: -1 group-title="##SPROTS##",Super Sport 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Super Sport 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Super Sport 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Super Sport 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF: -1 group-title="##SPROTS##",BeinSport 1
+http://6.oldbozcdn1.cc/nirvana1/index.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Golf Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+#EXTINF: -1 group-title="##SPROTS##",T sports
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Fight Sports
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Skynet Sports 1
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Skynet sports 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Skynet Sports 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Skynet sports 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Skynet Sports 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF: -1 group-title="##SPROTS##",Skynet sports 6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF: -1 group-title="##SPROTS##",RMC SPORTS 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/35bebda7c9c68f9.m3u8
+#EXTINF: -1 group-title="##SPROTS##",RMC SPORTS 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/652414abcb12df0.m3u8
+#EXTINF: -1 group-title="##SPROTS##",RMC SPORTS 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7520f659ff3b580.m3u8
+
 #EXTINF: -1 group-title="USA Bein SD",USA BeIN Sports 1
 http://hostlife.me:8089/jerome-BARANGER/6m856sXfzK/16330
 #EXTINF: -1 group-title="USA Bein SD",USA BeIN Sports 2

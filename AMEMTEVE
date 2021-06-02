@@ -515,6 +515,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Amem@Sports", Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Amem@Sports", Yalla Sport
+https://d3g8ubaferj2d1.cloudfront.net/out/v1/3849055818a5461985839047f9ef6eae/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Amem@HBO",HBO HD
 https://gratismkctv.net/film/hbo.m3u8

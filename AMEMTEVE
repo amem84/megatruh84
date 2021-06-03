@@ -25,23 +25,6 @@ http://tv1.cs10.tv:80/leopoldo/leopoldo/60372
 #EXTINF:-1 tvg-id="" tvg-name="USA: BeIN SPORTS 5 HD*" tvg-logo="" group-title="*USA",USA: BeIN SPORTS 5 HD*
 http://tv1.cs10.tv:80/leopoldo/leopoldo/60373
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 FHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="##Sport##",Bein Sport 1 FHD
-http://mantul.biz.id:8888/123456/111111/4700
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="Bein Sport 1 ID" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="##Sport##",Bein Sport 1 ID
-http://mantul.biz.id:8888/123456/111111/7
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 FHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="##Sport##",Bein Sport 2 FHD
-http://mantul.biz.id:8888/123456/111111/4701
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="Bein Sport 2 ID" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="##Sport##",Bein Sport 2 ID
-http://mantul.biz.id:8888/123456/111111/8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport FR 1" tvg-logo="" group-title="##Sport##",Bein Sport FR 1
-http://mantul.biz.id:8888/123456/111111/4638
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport FR 2" tvg-logo="" group-title="##Sport##",Bein Sport FR 2
-http://mantul.biz.id:8888/123456/111111/4639
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport FR 3" tvg-logo="" group-title="##Sport##",Bein Sport FR 3
-http://mantul.biz.id:8888/123456/111111/4640
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports LaLiga" tvg-logo="https://e7.pngegg.com/pngimages/752/349/png-clipart-la-liga-bein-sports-3-streaming-media-others-purple-television.png" group-title="##Sport##",Bein Sports LaLiga
-http://mantul.biz.id:8888/123456/111111/5014
-
 #EXTINF: -1 group-title="##SPROTS##",Super Sport 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF: -1 group-title="##SPROTS##",Super Sport 2

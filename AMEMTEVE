@@ -1,72 +1,77 @@
 #EXTM3U
-#EXTINF:-1 group-title="SportMax",BEIN SPORT MAX 1 4K
-http://ricoootv.xyz:8080/rico/rico/137
-#EXTINF:-1 group-title="SportMax",BEIN SPORT MAX 2 4K
-http://ricoootv.xyz:8080/rico/rico/138
-#EXTINF:-1 group-title="SportMax",BEIN SPORT MAX 3 4K
-http://ricoootv.xyz:8080/rico/rico/139
-#EXTINF:-1 group-title="SportMax",BEIN SPORT MAX 4 4K
-http://ricoootv.xyz:8080/rico/rico/140
-#EXTINF:-1 group-title="SportMax",BEIN SPORT MAX 5 4K
-http://ricoootv.xyz:8080/rico/rico/141
-#EXTINF:-1 group-title="SportMax",BEIN SPORT MAX 6 4K
-http://ricoootv.xyz:8080/rico/rico/142
-#EXTINF:-1 group-title="SportMax",bein sport 1 fr
-http://ricoootv.xyz:8080/rico/rico/83
-#EXTINF:-1 group-title="SportMax",bein sport 2 fr
-http://ricoootv.xyz:8080/rico/rico/84
-#EXTINF:-1 group-title="SportMax",bein sport 3 fr
-http://ricoootv.xyz:8080/rico/rico/85
-#EXTINF:-1 group-title="SportMax",bein sport max 4 fr
-http://ricoootv.xyz:8080/rico/rico/86
-#EXTINF:-1 group-title="SportMax",bein sport max 5 fr
-http://ricoootv.xyz:8080/rico/rico/87
-#EXTINF:-1 group-title="SportMax",bein sport max 6 fr
-http://ricoootv.xyz:8080/rico/rico/88
-#EXTINF:-1 group-title="SportMax",bein sport max 7 sd
-http://ricoootv.xyz:8080/rico/rico/89
-#EXTINF:-1 group-title="SportMax",beinsport sd news
-http://ricoootv.xyz:8080/rico/rico/90
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 1 HD PREMIUM
-http://ricoootv.xyz:8080/rico/rico/1
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 2 HD PREMIUM
-http://ricoootv.xyz:8080/rico/rico/2
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 3 HD PREMIUM
-http://ricoootv.xyz:8080/rico/rico/3
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 1 HD
-http://ricoootv.xyz:8080/rico/rico/4
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 2 HD
-http://ricoootv.xyz:8080/rico/rico/5
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 3 HD
-http://ricoootv.xyz:8080/rico/rico/6
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 5 HD
-http://ricoootv.xyz:8080/rico/rico/8
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 6 HD
-http://ricoootv.xyz:8080/rico/rico/9
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 7 HD
-http://ricoootv.xyz:8080/rico/rico/10
-#EXTINF:-1 group-title="SportMax",BEIN SPORT 4 HD
-http://ricoootv.xyz:8080/rico/rico/7
-#EXTINF:-1 group-title="SportMax",bein sport 1 sd
-http://ricoootv.xyz:8080/rico/rico/73
-#EXTINF:-1 group-title="SportMax",bein sport 2 sd
-http://ricoootv.xyz:8080/rico/rico/74
-#EXTINF:-1 group-title="SportMax",bein sport 3 sd
-http://ricoootv.xyz:8080/rico/rico/75
-#EXTINF:-1 group-title="SportMax",bein sport 4 sd
-http://ricoootv.xyz:8080/rico/rico/76
-#EXTINF:-1 group-title="SportMax",bein sport 5 sd
-http://ricoootv.xyz:8080/rico/rico/77
-#EXTINF:-1 group-title="SportMax",bein sport 6 sd
-http://ricoootv.xyz:8080/rico/rico/78
-#EXTINF:-1 group-title="SportMax",bein sport 7 sd
-http://ricoootv.xyz:8080/rico/rico/79
-#EXTINF:-1 group-title="SportMax",bein sport 1 sd premium
-http://ricoootv.xyz:8080/rico/rico/80
-#EXTINF:-1 group-title="SportMax",bein sport 2 sd premium
-http://ricoootv.xyz:8080/rico/rico/81
-#EXTINF:-1 group-title="SportMax",bein sport 3 sd premium
-http://ricoootv.xyz:8080/rico/rico/82
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX1 HD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3387
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX2 HD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3388
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX3 HD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3389
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX4 HD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3390
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX5 HD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3391
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX6 HD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3392
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX1 SD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3396
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX2 SD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3397
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX3 SD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3398
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX4 SD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3399
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX5 SD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3400
+#EXTINF:-1 group-title="SportMax",beIN SPORTS MAX6 SD
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3401
+
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 01
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3060
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 02
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3061
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 03
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3062
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 04
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3064
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 05
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3063
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 06
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3065
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 07
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3066
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 08
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3067
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 09
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3068
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 10
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3069
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 11
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3070
+#EXTINF:-1 group-title="SuperSport",[SPO*] SuperSport 12
+#EXTVLCOPT:http-user-agent=mcxxxiqodlgg273fqlk
+http://kaicertv.ddns.net:8080/0RdhMP4CxH/JU9WdWczbe/3071
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="" group-title="ASSP",MY: ASTRO ASSP4 HD
 http://gooserace.xyz:2052/armando/armando/2599212

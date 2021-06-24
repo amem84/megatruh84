@@ -1,60 +1,28 @@
 #EXTM3U
-#EXTINF:-1 group-title="SprotMax",☘☘☘★--- beIN SPORTS MAX ---★☘☘☘
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50257
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max HD 1
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50258
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max 1 FHD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/54407
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max HD 2
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50259
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max 2 FHD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/54408
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max HD 3
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50260
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max 3 FHD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/54409
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max HD 4
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50261
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max 4 FHD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/54410
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max HD 5
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50477
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max 5 FHD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/54411
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max HD 6
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50478
-#EXTINF:-1 group-title="SprotMax",AR: beIN Sports Max 6 FHD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/54412
-
-#EXTINF:-1,☘☘☘★--- BEON SPORTS MAX SD ---★☘☘☘
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50480
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX1 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50481
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX2 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50482
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX3 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50483
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX4 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50484
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX5 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50485
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX6 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50486
-
-#EXTINF:-1,☘☘☘★--- BEON SPORTS MAX SD ---★☘☘☘
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50470
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX1 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50471
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX2 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50472
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX3 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50473
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX4 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50474
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX5 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50475
-#EXTINF:-1 group-title="SprotMax",beIN SPORTS MAX6 SD
-http://aumaletv.com:25461/EUROCR2/Aumaletv/50476
+#EXTINF:-1 group-title="SprotMax",Bein Sports MAX 6 SD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/58
+#EXTINF:-1 group-title="SprotMax",Bein Sports MAX 5 SD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/57
+#EXTINF:-1 group-title="SprotMax",Bein Sports MAX 6 HD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/56
+#EXTINF:-1 group-title="SprotMax",Bein Sports MAX 5 HD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/55
+#EXTINF:-1 group-title="SprotMax",(FR) Bein Sport Max 4 SD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/50
+#EXTINF:-1 group-title="SprotMax",(FR) Bein Sport Max 4 HD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/49
+#EXTINF:-1 group-title="SprotMax",(EN) Bein Sport Max 3 SD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/48
+#EXTINF:-1 group-title="SprotMax",(EN) Bein Sport Max 3 HD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/47
+#EXTINF:-1 group-title="SprotMax",(AR) Bein Sport Max 2 SD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/46
+#EXTINF:-1 group-title="SprotMax",(AR) Bein Sport Max 2 HD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/45
+#EXTINF:-1 group-title="SprotMax",(AR)Bein Sport Max 1 SD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/44
+#EXTINF:-1 group-title="SprotMax",(AR) Bein Sport Max 1HD
+http://75.119.151.44:25461/freenodaflix/beinmaxfree/43
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="" group-title="ASSP",MY: ASTRO ASSP4 HD
 http://gooserace.xyz:2052/armando/armando/2599212

@@ -24,6 +24,11 @@ http://75.119.151.44:25461/freenodaflix/beinmaxfree/44
 #EXTINF:-1 group-title="SprotMax",(AR) Bein Sport Max 1HD
 http://75.119.151.44:25461/freenodaflix/beinmaxfree/43
 
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2 HD" tvg-logo="" group-title="ESPN USA",USA: ESPN 2 HD
+http://starshare.live:8080/live/449988/449988/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 1" tvg-logo="" group-title="ESPN USA",USA: ESPN 1
+http://starshare.live:8080/live/449988/449988/52.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="" group-title="ASSP",MY: ASTRO ASSP4 HD
 http://gooserace.xyz:2052/armando/armando/2599212
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP3 HD" tvg-logo="" group-title="ASSP",MY: ASTRO ASSP3 HD

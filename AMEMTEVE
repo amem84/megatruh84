@@ -1,28 +1,36 @@
 #EXTM3U
-#EXTINF:-1 group-title="SprotMax",Bein Sports MAX 6 SD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/58
-#EXTINF:-1 group-title="SprotMax",Bein Sports MAX 5 SD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/57
-#EXTINF:-1 group-title="SprotMax",Bein Sports MAX 6 HD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/56
-#EXTINF:-1 group-title="SprotMax",Bein Sports MAX 5 HD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/55
-#EXTINF:-1 group-title="SprotMax",(FR) Bein Sport Max 4 SD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/50
-#EXTINF:-1 group-title="SprotMax",(FR) Bein Sport Max 4 HD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/49
-#EXTINF:-1 group-title="SprotMax",(EN) Bein Sport Max 3 SD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/48
-#EXTINF:-1 group-title="SprotMax",(EN) Bein Sport Max 3 HD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/47
-#EXTINF:-1 group-title="SprotMax",(AR) Bein Sport Max 2 SD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/46
-#EXTINF:-1 group-title="SprotMax",(AR) Bein Sport Max 2 HD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/45
-#EXTINF:-1 group-title="SprotMax",(AR)Bein Sport Max 1 SD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/44
-#EXTINF:-1 group-title="SprotMax",(AR) Bein Sport Max 1HD
-http://75.119.151.44:25461/freenodaflix/beinmaxfree/43
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 1 HD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24894
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 2 HD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24895
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 3 HD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24896
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 4 HD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24897
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 5 HD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24898
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 6 HD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24899
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 1 FHD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24900
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 2 FHD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24901
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 3 FHD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24902
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 4 FHD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24903
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 1 SD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24921
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 2 SD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24922
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 3 SD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24923
+#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 4 SD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24924
+#EXTINF:-1 group-title="SprotMax",||TR| beIN SPORTS 1 MAX HD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/5507
+#EXTINF:-1 group-title="SprotMax",||TR| beIN SPORTS 2 MAX HD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/5508
 
 #EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2 HD" tvg-logo="" group-title="ESPN USA",USA: ESPN 2 HD
 http://starshare.live:8080/live/449988/449988/53.ts

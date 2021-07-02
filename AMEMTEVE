@@ -1,36 +1,56 @@
 #EXTM3U
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 1 HD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24894
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 2 HD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24895
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 3 HD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24896
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 4 HD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24897
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 5 HD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24898
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 6 HD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24899
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 1 FHD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24900
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 2 FHD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24901
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 3 FHD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24902
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 4 FHD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24903
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 1 SD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24921
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 2 SD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24922
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 3 SD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24923
-#EXTINF:-1 group-title="SprotMax",||beIN| BEINSPORT MAX 4 SD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24924
-#EXTINF:-1 group-title="SprotMax",||TR| beIN SPORTS 1 MAX HD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/5507
-#EXTINF:-1 group-title="SprotMax",||TR| beIN SPORTS 2 MAX HD
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/5508
+#EXTINF:-1 group-title="SprotMax",B S MAX 1 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289046
+#EXTINF:-1 group-title="SprotMax",B S MAX 1 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289047
+#EXTINF:-1 group-title="SprotMax",B S MAX 2 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289048
+#EXTINF:-1 group-title="SprotMax",B S MAX 2 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289049
+#EXTINF:-1 group-title="SprotMax",B S MAX 3 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289050
+#EXTINF:-1 group-title="SprotMax",B S MAX 3 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289051
+#EXTINF:-1 group-title="SprotMax",B S MAX 4 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289052
+#EXTINF:-1 group-title="SprotMax",B S MAX 4 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289053
+#EXTINF:-1 group-title="SprotMax",B S MAX 5 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289054
+#EXTINF:-1 group-title="SprotMax",B S MAX 5 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289055
+#EXTINF:-1 group-title="SprotMax",B S MAX 6 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289056
+#EXTINF:-1 group-title="SprotMax",B S MAX 6 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289057
+#EXTINF:-1 group-title="SprotMax",B S MAX 1 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289625
+#EXTINF:-1 group-title="SprotMax",B S MAX 2 4K 
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289626
+#EXTINF:-1 group-title="SprotMax",B S MAX 3 4K 
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289627
+#EXTINF:-1 group-title="SprotMax",B S MAX 4 4K 
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289628
+#EXTINF:-1 group-title="SprotMax",B S MAX 5 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289629
+#EXTINF:-1 group-title="SprotMax",B S MAX 6 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289630
+#EXTINF:-1 group-title="SprotMax",B S MAX  2F
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289635
+#EXTINF:-1 group-title="SprotMax",B S MAX  1F
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289636
+#EXTINF:-1 group-title="SprotMax",BS 1 HD fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289637
+#EXTINF:-1 group-title="SprotMax",BS 2 HD fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289638
+#EXTINF:-1 group-title="SprotMax",BS 3 HD fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289639
+#EXTINF:-1 group-title="SprotMax",BS 1F fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289640
+#EXTINF:-1 group-title="SprotMax",BS 2F fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289641
+#EXTINF:-1 group-title="SprotMax",BS 3F fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289642
 
 #EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2 HD" tvg-logo="" group-title="ESPN USA",USA: ESPN 2 HD
 http://starshare.live:8080/live/449988/449988/53.ts

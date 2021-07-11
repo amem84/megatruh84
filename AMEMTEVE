@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="LiveCopa",LiveCopAmerika2020
+http://164.68.124.111/fs1.m3u8
+
 #EXTINF:-1 group-title="Max800",BeIN Sport Max SD 1
 http://vpngenerators.com:25461/iptvgendzdsd/zogahm/19965846
 #EXTINF:-1 group-title="Max800",BeIN Sport Max SD 2

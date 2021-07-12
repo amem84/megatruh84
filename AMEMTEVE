@@ -22,57 +22,57 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:0 group-title="EURO DIRECT" tvg-logo="https://cdn0-production-images-kly.akamaized.net/JijVm3KazAVx5emVdojE4LuvUcw=/1x174:1000x737/673x379/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3481194/original/081456100_1623594378-Logo_Euro.jpg" ,EURO11
 http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 
-#EXTINF:-1 group-title="Max10K",B S MAX 1 HD
+#EXTINF:-1 group-title="Max100K",B S MAX 1 HD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289046
-#EXTINF:-1 group-title="Max10K",B S MAX 1 SD
+#EXTINF:-1 group-title="Max100K",B S MAX 1 SD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289047
-#EXTINF:-1 group-title="Max10K",B S MAX 2 HD
+#EXTINF:-1 group-title="Max100K",B S MAX 2 HD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289048
-#EXTINF:-1 group-title="Max10K",B S MAX 2 SD
+#EXTINF:-1 group-title="Max100K",B S MAX 2 SD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289049
-#EXTINF:-1 group-title="Max10K",B S MAX 3 HD
+#EXTINF:-1 group-title="Max100K",B S MAX 3 HD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289050
-#EXTINF:-1 group-title="Max10K",B S MAX 3 SD
+#EXTINF:-1 group-title="Max100K",B S MAX 3 SD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289051
-#EXTINF:-1 group-title="Max10K",B S MAX 4 HD
+#EXTINF:-1 group-title="Max100K",B S MAX 4 HD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289052
-#EXTINF:-1 group-title="Max10K",B S MAX 4 SD
+#EXTINF:-1 group-title="Max100K",B S MAX 4 SD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289053
-#EXTINF:-1 group-title="Max10K",B S MAX 5 HD
+#EXTINF:-1 group-title="Max100K",B S MAX 5 HD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289054
-#EXTINF:-1 group-title="Max10K",B S MAX 5 4K
+#EXTINF:-1 group-title="Max100K",B S MAX 5 4K
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289055
-#EXTINF:-1 group-title="Max10K",B S MAX 6 HD
+#EXTINF:-1 group-title="Max100K",B S MAX 6 HD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289056
-#EXTINF:-1 group-title="Max10K",B S MAX 6 4K
+#EXTINF:-1 group-title="Max100K",B S MAX 6 4K
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289057
-#EXTINF:-1 group-title="Max10K",B S MAX 1 4K
+#EXTINF:-1 group-title="Max100K",B S MAX 1 4K
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289625
-#EXTINF:-1 group-title="Max10K",B S MAX 2 4K 
+#EXTINF:-1 group-title="Max100K",B S MAX 2 4K 
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289626
-#EXTINF:-1 group-title="Max10K",B S MAX 3 4K 
+#EXTINF:-1 group-title="Max100K",B S MAX 3 4K 
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289627
-#EXTINF:-1 group-title="Max10K",B S MAX 4 4K 
+#EXTINF:-1 group-title="Max100K",B S MAX 4 4K 
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289628
-#EXTINF:-1 group-title="Max10K",B S MAX 5 4K
+#EXTINF:-1 group-title="Max100K",B S MAX 5 4K
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289629
-#EXTINF:-1 group-title="Max10K",B S MAX 6 4K
+#EXTINF:-1 group-title="Max100K",B S MAX 6 4K
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289630
-#EXTINF:-1 group-title="Max10K",B S MAX  2F
+#EXTINF:-1 group-title="Max100K",B S MAX  2F
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289635
-#EXTINF:-1 group-title="Max10K",B S MAX  1F
+#EXTINF:-1 group-title="Max100K",B S MAX  1F
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289636
-#EXTINF:-1 group-title="Max10K",BS 1 HD fr
+#EXTINF:-1 group-title="Max100K",BS 1 HD fr
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289637
-#EXTINF:-1 group-title="Max10K",BS 2 HD fr
+#EXTINF:-1 group-title="Max100K",BS 2 HD fr
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289638
-#EXTINF:-1 group-title="Max10K",BS 3 HD fr
+#EXTINF:-1 group-title="Max100K",BS 3 HD fr
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289639
-#EXTINF:-1 group-title="Max10K",BS 1F fr
+#EXTINF:-1 group-title="Max100K",BS 1F fr
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289640
-#EXTINF:-1 group-title="Max10K",BS 2F fr
+#EXTINF:-1 group-title="Max100K",BS 2F fr
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289641
-#EXTINF:-1 group-title="Max10K",BS 3F fr
+#EXTINF:-1 group-title="Max100K",BS 3F fr
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289642
 
 #EXTINF:-1 group-title="Max800",BeIN Sport Max SD 1
@@ -506,6 +506,8 @@ http://31.220.41.90:8081/live/skysportsf1.stream/playlist.m3u8
 http://31.220.41.90:8081/live/it-skymoto.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORT",FS1
 http://164.68.124.111/fs1.m3u8
+#EXTINF:-1 group-title="SPORT",YACINE TV FHD
+http://10.ardounar.xyz/live/9889900/index.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="PREMIUMMSport",True Premier HD 1 
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8 

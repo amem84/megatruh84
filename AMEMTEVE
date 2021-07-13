@@ -550,6 +550,12 @@ http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/548-5487141_fox-sports-3-l-fox-sports-1-clipart.png" group-title="Amem@Sports", Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Amem@Sports", TV Champion 1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Amem@Sports", TV Champion 2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Amem@Sports", TV Champion 3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Amem@Movies",HBO HD
@@ -576,6 +582,18 @@ http://51.79.82.231:8080/US_HBO_2/video.m3u8
 http://51.79.82.231:8080/US_HBO_SIGNATURE/video.m3u8
 #EXTINF:-1 group-title="Amem@Movies", HBO FAMILY USA
 http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Amem@Movies", Animax 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
+#EXTINF:-1, tvg-id="719" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animax.png" tvg-name="TVN"  group-title="Amem@Movies",ANIMAX
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Amem@Movies", (DP) Animax Japan
+http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Amem@Movies", Aniplus 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Amem@Movies", Aniplus 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=aniplus
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="Amem@Movies", ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

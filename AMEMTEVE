@@ -416,18 +416,34 @@ http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289641
 #EXTINF:-1 group-title="Max10K",BS 3F fr
 http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289642
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="" group-title="ASSP",MY: ASTRO ASSP4 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="ASSP",MY: ASTRO ASSP4 HD
 http://gooserace.xyz:2052/armando/armando/2599212
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" tvg-name="MY: ASTRO ASSP3 HD" tvg-logo="" group-title="ASSP",MY: ASTRO ASSP3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASSP",MY: ASTRO ASSP3 HD
 http://gooserace.xyz:2052/armando/armando/2599211
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" tvg-name="MY: ASTRO ASSP2 HD" tvg-logo="" group-title="ASSP",MY: ASTRO ASSP2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="ASSP",MY: ASTRO ASSP2 HD
 http://gooserace.xyz:2052/armando/armando/2599210
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" tvg-name="MY: ASTRO ASSP Plus HD" tvg-logo="" group-title="ASSP",MY: ASTRO ASSP Plus HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASSP",MY: ASTRO ASSP Plus HD
 http://gooserace.xyz:2052/armando/armando/2599209
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" tvg-name="MY: ASTRO ASSP HD" tvg-logo="" group-title="ASSP",MY: ASTRO ASSP HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASSP",MY: ASTRO ASSP HD
 http://gooserace.xyz:2052/armando/armando/2599208
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-name="MY: ASTRO Arena HD" tvg-logo="" group-title="ASSP",MY: ASTRO Arena HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASSP",MY: ASTRO Arena HD
 http://gooserace.xyz:2052/armando/armando/2599207
+#EXTINF:-1,MY - 811 (ASSP 1)
+https://my.odtv.uk:443/9186897972/4075991752/126
+#EXTINF:-1 group-title="ASSP",ASSP1 Backup
+https://my.odtv.uk:443/9186897972/4075991752/230
+#EXTINF:-1 group-title="ASSP",MY - 812 (ASSP 2)
+https://my.odtv.uk:443/9186897972/4075991752/127
+#EXTINF:-1 group-title="ASSP",ASSP2 Backup
+https://my.odtv.uk:443/9186897972/4075991752/231
+#EXTINF:-1 group-title="ASSP",MY - 813 (ASSP 3)
+https://my.odtv.uk:443/9186897972/4075991752/128
+#EXTINF:-1 group-title="ASSP",ASSP3 Backup
+https://my.odtv.uk:443/9186897972/4075991752/232
+#EXTINF:-1 group-title="ASSP",MY - 814 (ASSP4)
+https://my.odtv.uk:443/9186897972/4075991752/129
+#EXTINF:-1 group-title="ASSP",ASSP4 Backup
+https://my.odtv.uk:443/9186897972/4075991752/233
 
 #EXTINF: -1 group-title="Sky Sport",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8

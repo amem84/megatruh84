@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="YALLA SPORTS" ,Yalla LIVE
+https://google-me.cdn.booyah.live/hls/113138/78071540.m3u8
+#EXTINF:-1 group-title="YALLA SPORTS" ,Yalla LIVE2
+https://google-me.cdn.booyah.live/hls/113130/78067119.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="ASSP",MY: ASTRO ASSP4 HD
 http://gooserace.xyz:2052/armando/armando/2599212
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASSP",MY: ASTRO ASSP3 HD

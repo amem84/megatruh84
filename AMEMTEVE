@@ -1,8 +1,57 @@
 #EXTM3U
-#EXTINF:-1 group-title="YALLA SPORTS" ,Yalla LIVE
-https://google-me.cdn.booyah.live/hls/113138/78071540.m3u8
-#EXTINF:-1 group-title="YALLA SPORTS" ,Yalla LIVE2
-https://google-me.cdn.booyah.live/hls/113130/78067119.m3u8
+#EXTINF:-1 group-title="_BS_", beIN Sports 1 PREMIUM HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108161
+#EXTINF:-1 group-title="_BS_",beIN Sports 2 PREMIUM HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108162
+#EXTINF:-1 group-title="_BS_",beIN Sports 3 PREMIUM HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108163
+#EXTINF:-1 group-title="_BS_",beIN Sports 1 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108164
+#EXTINF:-1 group-title="_BS_",beIN Sports 2 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108165
+#EXTINF:-1 group-title="_BS_",beIN Sports 3 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108166
+#EXTINF:-1 group-title="_BS_",beIN Sports 4 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108167
+#EXTINF:-1 group-title="_BS_",beIN Sports 5 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108168
+#EXTINF:-1 group-title="_BS_",beIN Sports 6 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108169
+#EXTINF:-1 group-title="_BS_",beIN Sports 7 HD EN
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108170
+
+#EXTINF:-1 group-title="Olympic" ,Live 1
+http://185.180.15.17:2200/NL/la1hd-esp/index.m3u8?token=
+#EXTINF:-1 group-title="Olympic" ,Live 2
+https://rtvelivestreamv3.akamaized.net:443/la1_main_dvr_1080.m3u8
+#EXTINF:-1 group-title="Olympic" ,Live 3
+http://212.224.98.207:2200/NL/eurosport1-esp/index.m3u8?token=
+#EXTINF:-1 group-title="Olympic" ,Live 4
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Olympic" ,Live 5
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Olympic" ,Live 6
+http://212.224.98.207:2200/EX/eurosport1hd-ru/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 1
+https://link.zozotv.xyz:443/Freemium1/unlimited99/318
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/319
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 3
+https://link.zozotv.xyz:443/Freemium1/unlimited99/320
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 4
+https://link.zozotv.xyz:443/Freemium1/unlimited99/321
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 5
+https://link.zozotv.xyz:443/Freemium1/unlimited99/322
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 6
+https://link.zozotv.xyz:443/Freemium1/unlimited99/323
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 7
+https://link.zozotv.xyz:443/Freemium1/unlimited99/324
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 8
+https://link.zozotv.xyz:443/Freemium1/unlimited99/325
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 9" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 9
+https://link.zozotv.xyz:443/Freemium1/unlimited99/326
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Olympic",OLYMPIC 10
+https://link.zozotv.xyz:443/Freemium1/unlimited99/327
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="ASSP",MY: ASTRO ASSP4 HD
 http://gooserace.xyz:2052/armando/armando/2599212
@@ -16,6 +65,14 @@ http://gooserace.xyz:2052/armando/armando/2599209
 http://gooserace.xyz:2052/armando/armando/2599208
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASSP",MY: ASTRO Arena HD
 http://gooserace.xyz:2052/armando/armando/2599207
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="ASSP",ASSP-A
+https://link.zozotv.xyz:443/Freemium1/unlimited99/155
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="ASSP",ASSP2-A
+https://link.zozotv.xyz:443/Freemium1/unlimited99/156
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="ASSP",ASSP3-A
+https://link.zozotv.xyz:443/Freemium1/unlimited99/157
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-A" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="ASSP",ASSP4-A
+https://link.zozotv.xyz:443/Freemium1/unlimited99/158
 
 #EXTINF: -1 group-title="Sky Sport",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
@@ -115,6 +172,52 @@ http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/548-5487141_fox-sports-3-l-fox-sports-1-clipart.png" group-title="Amem@Sports", Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="EURO1" tvg-name="EURO 1 -Backup" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Amem@Sports",EURO 1 -Backup
+https://link.zozotv.xyz:443/Freemium1/unlimited99/302
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/GnZxD0M/xfh.png" group-title="Amem@Sports",FOX Sport 1
+https://link.zozotv.xyz:443/Freemium1/unlimited99/159
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/NyJNdH0/cgyf.png" group-title="Amem@Sports",FOX Sport 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/160
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tsrt8S3/nvc.png" group-title="Amem@Sports",FOX Sport 3
+https://link.zozotv.xyz:443/Freemium1/unlimited99/161
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="Amem@Sports",beIN Sports 1 ID
+https://link.zozotv.xyz:443/Freemium1/unlimited99/162
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="Amem@Sports",beIN Sports 2 ID
+https://link.zozotv.xyz:443/Freemium1/unlimited99/163
+#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/02RRn5F/tyrty.png" group-title="Amem@Sports",Champions 1
+https://link.zozotv.xyz:443/Freemium1/unlimited99/164
+#EXTINF:-1 tvg-id="" tvg-name="Champions 2" tvg-logo="https://i.ibb.co/25f0KrC/HFRR.png" group-title="Amem@Sports",Champions 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/165
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="Amem@Sports",BT Sport 1
+https://link.zozotv.xyz:443/Freemium1/unlimited99/173
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="Amem@Sports",BT Sport 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/174
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.ibb.co/CMrDP1P/S1.png" group-title="Amem@Sports",Sport TV 1
+https://link.zozotv.xyz:443/Freemium1/unlimited99/176
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.ibb.co/8Xvt9qy/S2.png" group-title="Amem@Sports",Sport TV 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/177
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://i.ibb.co/FDBMm6w/S3.png" group-title="Amem@Sports",Sport TV 3
+https://link.zozotv.xyz:443/Freemium1/unlimited99/178
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="Amem@Sports",Arena
+https://link.zozotv.xyz:443/Freemium1/unlimited99/154
+#EXTINF:-1 group-title="Amem@Sports", EuroSports 1 Uk
+https://sport.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Amem@Sports", EuroSports 2 Uk
+https://sport.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Amem@Sports", Fox Sports 1 My/ID
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 group-title="Amem@Sports", Fox Sports 2 My/ID
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:-1 group-title="Amem@Sports", Fox Sports 3 MY/ID
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:-1 group-title="Amem@Sports", Sony Ten 1 HD
+http://185.180.15.14:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="Amem@Sports", Sony Ten 2 HD
+http://185.180.15.13:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="Amem@Sports", Sony Ten 3 HD
+http://185.180.15.13:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="Amem@Sports", Sony Six HD
+http://185.180.15.13:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token==RED
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Amem@Movies",HBO HD
 https://gratismkctv.net/film/hbo.m3u8
@@ -127,6 +230,20 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng6h-TevXIWt0L3T75TOWVRz19zi09C061D3FWUl6Y=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@Movies",HBO Signature Malay
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Amem@Movies",HBO
+https://link.zozotv.xyz:443/Freemium1/unlimited99/96
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Amem@Movies",HBO Hits
+https://link.zozotv.xyz:443/Freemium1/unlimited99/97
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Amem@Movies",HBO Family
+https://link.zozotv.xyz:443/Freemium1/unlimited99/98
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Amem@Movies",HBO Signature
+https://link.zozotv.xyz:443/Freemium1/unlimited99/99
+#EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-name="FOX Movies Premium" tvg-logo="https://i.ibb.co/y4ZwgwB/ghfr.png" group-title="Amem@Movies",FOX Movies Premium
+https://link.zozotv.xyz:443/Freemium1/unlimited99/100
+#EXTINF:-1 tvg-id="FOXActionMoviesHD.MACAN" tvg-name="FOX Action Movies" tvg-logo="https://i.ibb.co/ngDt2ys/ht.png" group-title="Amem@Movies",FOX Action Movies
+https://link.zozotv.xyz:443/Freemium1/unlimited99/101
+#EXTINF:-1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-name="FOX Family Movies" tvg-logo="https://i.ibb.co/HHzfKmP/ASDZXC.png" group-title="Amem@Movies",FOX Family Movies
+https://link.zozotv.xyz:443/Freemium1/unlimited99/102
 #EXTINF:-1 group-title="Amem@Movies", FXX USA EAST
 http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 #EXTINF:-1 group-title="Amem@Movies", SYFY USA EAST
@@ -143,6 +260,26 @@ http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="Amem@Movies", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/jDKvSs3/CVZXS.png" group-title="Amem@Movies",Animax
+https://link.zozotv.xyz:443/Freemium1/unlimited99/69
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/cDJYGmg/yiuy.png" group-title="Amem@Movies",Aniplus
+https://link.zozotv.xyz:443/Freemium1/unlimited99/70
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="Amem@Movies",tvN
+https://link.zozotv.xyz:443/Freemium1/unlimited99/75
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="Amem@Movies",tvN Movies
+https://link.zozotv.xyz:443/Freemium1/unlimited99/76
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://i.ibb.co/n3HP87W/xcf.png" group-title="Amem@Movies",KBS World
+https://link.zozotv.xyz:443/Freemium1/unlimited99/78
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="Amem@Movies",K+
+https://link.zozotv.xyz:443/Freemium1/unlimited99/80
+#EXTINF:-1 tvg-id="FOX.MACAN" tvg-name="FOX" tvg-logo="https://i.ibb.co/n0V45gH/zx.png" group-title="Amem@Movies",FOX
+https://link.zozotv.xyz:443/Freemium1/unlimited99/90
+#EXTINF:-1 tvg-id="FOXCrime.MACAN" tvg-name="FOX Crime" tvg-logo="https://i.ibb.co/mS62DC1/RDFH.png" group-title="Amem@Movies",FOX Crime
+https://link.zozotv.xyz:443/Freemium1/unlimited99/91
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="Amem@Movies",AXN
+https://link.zozotv.xyz:443/Freemium1/unlimited99/83
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="Amem@Movies",Warner TV
+https://link.zozotv.xyz:443/Freemium1/unlimited99/86
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

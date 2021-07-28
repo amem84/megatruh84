@@ -20,6 +20,17 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108169
 #EXTINF:-1 group-title="_BS_",beIN Sports 7 HD EN
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/108170
 
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
+https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="1002" tvg-id="1002" tvg-chno="1002" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png",RTM Tokyo 2020 Channel 2 (HD)
+https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="1003" tvg-id="1003" tvg-chno="1003" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png",RTM Tokyo 2020 Channel 3 (HD)
+https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="1004" tvg-id="1004" tvg-chno="1004" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png",RTM Tokyo 2020 Channel 4 (HD)
+https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="1005" tvg-id="1005" tvg-chno="1005" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",RTM Tokyo 2020 Channel 5 (HD)
+https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
 #EXTINF:-1 group-title="Olympic" ,Live 1
 http://185.180.15.17:2200/NL/la1hd-esp/index.m3u8?token=
 #EXTINF:-1 group-title="Olympic" ,Live 2
@@ -73,6 +84,22 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/156
 https://link.zozotv.xyz:443/Freemium1/unlimited99/157
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-A" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="ASSP",ASSP4-A
 https://link.zozotv.xyz:443/Freemium1/unlimited99/158
+#EXTINF:-1 group-title="ASSP" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png", ASTRO SUPERSPORT HD  
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png", ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+#EXTINF:-1 group-title="ASSP"  tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png", Astro SuperSport 2 HD
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png", ASTRO SUPERSPORT 3 HD  
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png", ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png", ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png", ASTRO SUPERSPORT 4 HD
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/fy0bQb4Z/Astro-Cricket-Logo-2.png", ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
 
 #EXTINF: -1 group-title="Sky Sport",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
@@ -218,6 +245,18 @@ http://185.180.15.13:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
 http://185.180.15.13:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="Amem@Sports", Sony Six HD
 http://185.180.15.13:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token==RED
+#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/ZYMPd4SS/1200px-Fox-Sports-Logo-svg.png", FOX Sports HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
+#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/Dzf3Htwx/fox-sports-2-logo-876-FE0-A3-C1-seeklogo-com.png", FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
+#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/QMhyV1LC/837-300.png", FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
+#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
+#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/NGX652N1/0oc4b-Nx1esqf-G02-LC9f6f-Vp-I3-Gv-AE-1542901919-KJY9-GHGf.png", Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6821
+#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/Zq2p2LKM/new-golf-channel-logo-304.jpg", Golf Channel HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6796
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Amem@Movies",HBO HD
 https://gratismkctv.net/film/hbo.m3u8
@@ -280,6 +319,28 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/91
 https://link.zozotv.xyz:443/Freemium1/unlimited99/83
 #EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="Amem@Movies",Warner TV
 https://link.zozotv.xyz:443/Freemium1/unlimited99/86
+#EXTINF:-1 tvg-id="hbohd" group-title="Amem@Movies" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
+#EXTINF:-1,tvg-id="hbohd" group-title="Amem@Movies" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Amem@Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="Amem@Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1, group-title="Amem@Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",HBO HITS 
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1,group-title="Amem@Movies" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/d/dc/HBO_Signature_2014_(Stacked).png",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 group-title="Amem@Movies" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/d/dc/HBO_Signature_2014_(Stacked).png",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="Amem@Movies"tvg-logo="https://htvc.vn/uploads/editor/images/422x278%20Red_by_HBO_colour.png",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="Amem@Movies" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="FOXMovies" group-title="Amem@Movies" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",Fox Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXMovies" group-title="Amem@Movies" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

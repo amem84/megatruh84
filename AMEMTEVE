@@ -186,6 +186,10 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
 #EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/NGX652N1/0oc4b-Nx1esqf-G02-LC9f6f-Vp-I3-Gv-AE-1542901919-KJY9-GHGf.png", Rugby Pass TV
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6821
+#EXTINF:-1 group-title="Amem@Sports", Sony LIV (Medium Quality)
+http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
+#EXTINF:-1 group-title="Amem@Sports", Sony SIX HD
+http://180.210.191.2/hls/stream10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Amem@Movies",HBO HD
 https://gratismkctv.net/film/hbo.m3u8

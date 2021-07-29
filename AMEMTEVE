@@ -277,6 +277,56 @@ http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="Amem@Movies" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/gkhkr3wyklg5n77/fox_global.png?dl=1" group-title="Fox & Hbo",Fox 
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/yy04fmvkkepn7ml/fox-life-us.png?dl=1" group-title="Fox & Hbo",Foxlife
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/gp3i0qzufluf0g5/fox_crime_global.png?dl=1" group-title="Fox & Hbo",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/4zv0gnxx2fs7qto/fox_movies_asia.png?dl=1" group-title="Fox & Hbo",Fox Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iskko6wbo8tqla8/fox_movies_action.png?dl=1" group-title="Fox & Hbo", Fox action movies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iskko6wbo8tqla8/fox_movies_action.png?dl=1" group-title="Fox & Hbo", Fox action movies HD
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/lygxw47yslrggjv/fox_movies_family.png?dl=1" group-title="Fox & Hbo",FoxFamilyMovie
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/1l1ra5tzw2uty6m/hbo_asia.png?dl=1" group-title="Fox & Hbo",HBO 
+https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAAZUolL9kiSgoVhlwQ21zY2a/HBO.m3u8?dl=0
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/1l1ra5tzw2uty6m/hbo_asia.png?dl=1" group-title="Fox & Hbo",HBO 
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/goxr9ust2r565bs/hbo_signature_asia.png?dl=1" group-title="Fox & Hbo",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cw75qvak1kxciku/hbo_hits.png?dl=1" group-title="Fox & Hbo",HBO Hits 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/goxr9ust2r565bs/hbo_signature_asia.png?dl=1" group-title="Fox & Hbo",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+# https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/813fu2z21vtkbrh/hbo_family_asia.png?dl=1" group-title="Fox & Hbo",HBO Family 
+https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAAHBd21ZZF90aBXkMM6JMUTa/HBO FAMILY.m3u8?dl=0 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/813fu2z21vtkbrh/hbo_family_asia.png?dl=1" group-title="Fox & Hbo",HBO Family 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=WmAH4TlOSLquNm9os2qzNm9DI35GAceSQ9ac7CPmWkZ~rUNr8reKyLradmMKuHYQF4d68HmOwVGF5WM2rsn3POJDe4t8wR9xnsIITgslI9wWGjpUWOGEeDf-g88kTUoeDwi-YwlW4MdgKMGSa~OpdDm19XygFpit2IlmpZi3KtBl7p~vxrlx30SjOdC06Bj6vC~aUX5bFO2~L9osDwlhREJytLYDfPN8hf2w8T3vnEsjoYuueMvGZUk0nxDKXj3BMrHv2C-w8Hfx83PIyJ5Qp1dIfWBXXGmOBELzvyh7f04G0gLWr8I-mS6yQDG-v~ON5CnO0FmloihQtCaEaABUIg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ms2ku9q0xqqyzsz/cinemax-asia-us.png?dl=1" group-title="Fox & Hbo",CINEMAX 
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ms2ku9q0xqqyzsz/cinemax-asia-us.png?dl=1" group-title="Fox & Hbo",CINEMAX 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=KBhaAaXrCwMsBkDFHC9LeTOVZVQql64ghSq~JRl-f4IAhjLP8irJ04K0dO5SZfXZPsKB0q-uDJeTkg-FVHp-Vrx9KXPMMm8TVIGUVo8G~l2kiQC394BSLeILiLRUwd37sIiaFLvhYYfdY3nutd8DLqycvvA38FT1XXcdC225uoMT97ifxQ9Cmsp9VKsr3PWSZrXcYgXqf4GzdZasxjxLRFyKjml7R21sgGoWwrJ7yuyG5e44QsaZuHlJJtLgU3uCt4wSacE15LW57hu49sEPTHhHBhzbPu6Jv8fDh1ffpcxnVp3rbMYAmmkbMVCws5pvi-tUfYt0nY5hLB4BNP5QdA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Fox & Hbo" tvg-id="" tvg-name"AXN ",AXN 
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/ccm.png" group-title="Fox & Hbo",CCM 
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="Fox & Hbo" tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png", &Prive 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8   
+#EXTINF:-1 group-title="Fox & Hbo" tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png", &Flix 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8                     
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" group-title="Fox & Hbo", SONY PIX HD
+http://iptv.tvmalaysia.cc/932633/932633/8213
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCjx0s4/A-H-M.png" group-title="Fox & Hbo",Action Hollywood Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="Fox & Hbo",AMERICAN HORRORS
+http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 002  

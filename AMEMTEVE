@@ -14,6 +14,17 @@ https://livecloud.akamaized.net/band/lip2_de/fnmss0011/UiSA1cEYv6VeDz2q420O7lj-L
 #EXTINF:-1 group-title="LIVE", EPL - MU v LEEDS
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+https://tv3.calcio01.pw/live/moto.m3u8
+#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+http://stream.tvtap.live:8081/live/es-moviestarmotogp.stream/playlist.m3u8
+#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="LIVE LFC", LFC TV
 http://england.mazystreams.xyz/live/2/chunks.m3u8?tla
 #EXTINF:-1 group-title="LIVE LFC", LFC TV 720p

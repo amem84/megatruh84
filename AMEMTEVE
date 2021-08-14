@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE", EPL - MU v LEEDS
+#EXTINF:-1 group-title="LIVE", EPL - CHELSEA v CRYSTAL PALACE
+https://akamai2-me.cdn.booyah.live/hls/113132/master_81437181.m3u8
+#EXTINF:-1 group-title="LIVE", EPL - CHELSEA v CRYSTAL PALACE
+https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
+#EXTINF:-1 group-title="LIVE", EPL - CHELSEA v CRYSTAL PALACE
+https://google-me.cdn.booyah.live/hls/113138/81968418.m3u8
+#EXTINF:-1 group-title="LIVE", EPL - CHELSEA v CRYSTAL PALACE
+http://stream.tvtap.net:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1 group-title="LIVE", EPL - CHELSEA v CRYSTAL PALACE
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - MU v LEEDS
+#EXTINF:-1 group-title="LIVE", EPL - CHELSEA v CRYSTAL PALACE
 http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - MU v LEEDS
-https://vigor.angelthump.com/hls/nocompartir2.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - MU v LEEDS
-https://ca.castamp.com/live/jjsvd/playlist.m3u8?h=M0SHS5zgSAXfe-Ii53099A&e=1628959595&u=e3217d710daacc09483df07215d98f6e
-#EXTINF:-1 group-title="LIVE", EPL - MU v LEEDS
-https://nl.castamp.com/live/7896512/playlist.m3u8?h=1qIa-M4fMt21akS-6_8ACw&e=1628959555&u=ef967381b366f1f9b05d124c442c6960
-#EXTINF:-1 group-title="LIVE", EPL - MU v LEEDS
-https://livecloud.akamaized.net/band/lip2_de/fnmss0011/UiSA1cEYv6VeDz2q420O7lj-LHqRecb6Aaw0LTN52fFeEJFIOuY1kGSO0MLahxOLkPemy6qFqHYuF5HxQFJXDHRbzmUbtMHDt-sWXy8AcvhxWsX7lLg/hdntl=exp=1628968550~acl=%2fband%2f*%2f*%2fUiSA1cEYv6VeDz2q420O7lj-LHqRecb6Aaw0LTN52fFeEJFIOuY1kGSO0MLahxOLkPemy6qFqHYuF5HxQFJXDHRbzmUbtMHDt-sWXy8AcvhxWsX7lLg%2f*~data=hdntl~hmac=05427f7a9848ff06e6acd6b388921e6cc073d9b5a5cf06169733d5860240eace/chunklist_360P.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - MU v LEEDS
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE", EPL - CHELSEA v CRYSTAL PALACE
+https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index_1.m3u8
+#EXTINF:-1 group-title="LIVE", EPL - CHELSEA v CRYSTAL PALACE
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
 https://tv3.calcio01.pw/live/moto.m3u8

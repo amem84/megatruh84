@@ -17,6 +17,12 @@ https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/ind
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+https://cdn1.cdn.motogp.com/hls/ipfmix/index.m3u8?token=1629037443_a7a84a00bc95511393d4d8034c45efaebe442446&start=1629008548
+#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+http://145.239.2.125:42021/live/d3c01baffd9e4bfeb5a8242797b4c906/46e28080fbe644a8a500336ed66fdff6/28.m3u8
+#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=59746627&_cdn_timestamp=1629077406&_cdn_token=125ca6d79de2337fd2d267bf9882634c95981519
+#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
 https://tv3.calcio01.pw/live/moto.m3u8
 #EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
 http://stream.tvtap.live:8081/live/es-moviestarmotogp.stream/playlist.m3u8
@@ -26,6 +32,8 @@ http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+http://31.220.41.86:8081/live/klub2.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="LIVE LFC", LFC TV
 http://england.mazystreams.xyz/live/2/chunks.m3u8?tla

@@ -1,39 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE", EPL - liVE
-https://akamai2-me.cdn.booyah.live/hls/113132/master_81437181.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - liVE
-https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - liVE
-https://google-me.cdn.booyah.live/hls/113138/81968418.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - liVE
-http://stream.tvtap.net:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - liVE
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - liVE
-http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - liVE
-https://d4p62oigkrwn5.cloudfront.net/out/v1/b464645538f8478db2592a669de79e71/index_1.m3u8
-#EXTINF:-1 group-title="LIVE", EPL - liVE
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
-https://cdn1.cdn.motogp.com/hls/ipfmix/index.m3u8?token=1629037443_a7a84a00bc95511393d4d8034c45efaebe442446&start=1629008548
-#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
-http://145.239.2.125:42021/live/d3c01baffd9e4bfeb5a8242797b4c906/46e28080fbe644a8a500336ed66fdff6/28.m3u8
-#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=59746627&_cdn_timestamp=1629077406&_cdn_token=125ca6d79de2337fd2d267bf9882634c95981519
-#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
-https://tv3.calcio01.pw/live/moto.m3u8
-#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
-http://stream.tvtap.live:8081/live/es-moviestarmotogp.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
+#EXTINF:-1 group-title="EPL", LIV V BURN
+https://google-me.cdn.booyah.live/hls/113134/60699196.m3u8
+#EXTINF:-1 group-title="EPL", LIV V BURN
+http://145.239.2.125:42021/live/3b46166ff7364c19a957fb1278253670/00bd0a4ee3114cc78201985b58bead40/124.m3u8?per
+#EXTINF:-1 group-title="EPL", LIV V BURN
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
-http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE MOTOGP", MOTOGP AUSTRIA
-http://31.220.41.86:8081/live/klub2.stream/chunks.m3u8
+#EXTINF:-1 group-title="EPL", LIV V BURN
+https://tv3.calcio01.pw/live/liver.m3u8
+#EXTINF:-1 group-title="EPL", LIV V BURN
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="EPL", LIV V BURN
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="EPL", LIV V BURN
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="EPL", LIV V BURN
+http://77.83.117.60:8888/02_lfctv_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="LIVE LFC", LFC TV
 http://england.mazystreams.xyz/live/2/chunks.m3u8?tla
@@ -285,6 +266,28 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" group-title="Amem@Movies" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-language="id" tvg-id="Erz.hbo" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU", HBO
+https://iptvid.cgflix.xyz/vidio/hbo.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbosig" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU", HBO Signature
+https://iptvid.cgflix.xyz/vidio/hbo_sig.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbohits" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU",HBO Hits
+https://iptvid.cgflix.xyz/vidio/hbo_hits.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbofam" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU", HBO Family
+https://iptvid.cgflix.xyz/vidio/hbo_fam.m3u8
+#EXTINF:-1 tvg-id="Erz.cinemax" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU", HBO CINEMAX
+https://iptvid.cgflix.xyz/vidio/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" group-title="Movies", FOX
+http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="Movies", FOX ACTION MOVIES
+http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+//#EXTINF:-1 tvg-id="Erz.foxlife" tvg-language="ind" tvg-id="foxlife" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU",FOX LIFE
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+//#EXTINF:-1 tvg-id="Erz.foxmovies" tvg-language="ind" tvg-id="foxmovies" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU",FOX Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.foxfamilymovies" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU",FOX FAMILY Movies
+http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.WB" tvg-id="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="Amem@Movies", WarnerBros Tv
+http://iptvid.cgflix.xyz/Usee/movies/wrnr.m3u8
 
 #EXTINF:0 tvg-logo="https://www.dropbox.com/s/gkhkr3wyklg5n77/fox_global.png?dl=1" group-title="Fox & Hbo",Fox 
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
@@ -335,6 +338,39 @@ http://iptv.tvmalaysia.cc/932633/932633/8213
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCjx0s4/A-H-M.png" group-title="Fox & Hbo",Action Hollywood Movies
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="Fox & Hbo",AMERICAN HORRORS
 http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
+
+#EXTINF:-1 tvg-id="Erz.rcti" tvg-logo="https://www.freepnglogos.com/uploads/lion-logo-png/king-emblem-lion-image-png-9.png" group-title="amem@Local", RCTI
+https://iptvid.cgflix.xyz/lokal/rcti.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.freepnglogos.com/uploads/lion-logo-png/king-emblem-lion-image-png-9.png"  group-title="amem@Local", MNCTV
+https://iptvid.cgflix.xyz/lokal/mnctv.m3u8
+#EXTINF:-1 tvg-id="Erz.gtv" tvg-logo="https://pbs.twimg.com/profile_images/1346771276317085696/N5bjSnvm_400x400.jpg" group-title="amem@Local", GTV
+https://iptvid.cgflix.xyz/lokal/gtv.m3u8
+#EXTINF:-1 tvg-id="Erz.indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZzOKCWZcdQTbxvueQaVaDKqW_Lpp-4pNtQ&usqp=CAU" group-title="amem@Local",INDOSIAR
+https://iptvid.cgflix.xyz/lokal/indosiar.m3u8
+#EXTINF:-1 tvg-id="Erz.trans7" tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="amem@Local",TRANS 7
+https://iptvid.cgflix.xyz/lokal/trans7.m3u8
+#EXTINF:-1 tvg-id="Erz.transtv" tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="amem@Local",TRANS TV
+https://iptvid.cgflix.xyz/lokal/transtv.m3u8
+#EXTINF:-1 tvg-id="Erz.sctv" tvg-logo="https://pbs.twimg.com/profile_images/1260941238473129985/QCSgHIeO_400x400.jpg" group-title="amem@Local",SCTV
+https://iptvid.cgflix.xyz/lokal/sctv.m3u8
+#EXTINF:-1 tvg-id="Erz.net" tvg-logo="https://pbs.twimg.com/profile_images/1361146630527807489/ZvWs_0w7_400x400.jpg" group-title="amem@Local",NET.
+https://iptvid.cgflix.xyz/lokal/net.m3u8
+#EXTINF:-1 tvg-id="Erz.kompas" tvg-logo="https://pbs.twimg.com/profile_images/1371327041509810177/5XZxIVtV_400x400.jpg" group-title="amem@Local",KOMPAS TV
+https://iptvid.cgflix.xyz/lokal/kompas.m3u8
+#EXTINF:-1 tvg-id="Erz.metrotv" tvg-logo="https://pbs.twimg.com/profile_images/1358658157115965441/XZIAzyrZ_400x400.jpg" group-title="amem@Local",METRO TV
+https://iptvid.cgflix.xyz/Usee/lokal/metrotv.m3u8
+#EXTINF:-1 tvg-id="Erz.inews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtn67myVr_jb4DjGGVssqB2BN7Fy3K6Y0tA&usqp=CAU" group-title="amem@Local", iNEWS
+https://iptvid.cgflix.xyz/lokal/inews.m3u8
+#EXTINF:-1 tvg-id="Erz.antv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBe8wanHh_L-O0XxX-rl8D1K5QYpb90dyXA&usqp=CAU" group-title="amem@Local",ANTV
+https://iptvid.cgflix.xyz/lokal/antv.m3u8
+#EXTINF:-1 tvg-id="Erz.tvone" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcoiYwYUdhCLdVF5YHWQiOr2Gfhbc7DbF2w&usqp=CAU" group-title="amem@Local",TVONE
+https://iptvid.cgflix.xyz/lokal/tvone.m3u8
+#EXTINF:-1 tvg-id="Erz.cnn_id" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="amem@Local",CNN INDONESIA
+https://iptvid.cgflix.xyz/lokal/cnnid.m3u8
+#EXTINF:-1 tvg-id="Erz.cnbc_id" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="amem@Local",CNBC INDONESIA
+https://iptvid.cgflix.xyz/lokal/cnbcid.m3u8
+#EXTINF:-1 tvg-id="Erz.jktglobenews" tvg-logo="https://pbs.twimg.com/profile_images/676712736915480576/aSBabZsd_400x400.jpg" group-title="amem@Local",JAKARTA GLOBE NEWS
+https://iptvid.cgflix.xyz/lokal/jgn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

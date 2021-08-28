@@ -23,6 +23,18 @@ http://1.yaciaptk.xyz/live/6161655/index.m3u8
 http://1.yaciaptk.xyz/live/616194987/index.m3u8
 #EXTINF:-1 group-title="EPL", LIVE EPL
 http://1.yaciaptk.xyz/live/6151278887/index.m3u8
+#EXTINF:-1 group-title="EPL", LIVE EPL
+https://tv2.tructiep.space/live/275a329a5122b5ad/playlist.m3u8
+#EXTINF:-1 group-title="EPL", LIVE EPL
+https://rafaelawiltelms.edge-access2.net:443/hls/play/edpj9-k1kp3-10pal-dk3a3_720p/index.m3u8
+#EXTINF:-1 group-title="EPL", LIVE EPL
+https://tv2.tructiep.space/live/52f7a504fb38276b/playlist.m3u8
+#EXTINF:-1 group-title="EPL", LIVE EPL
+http://213.7.193.54:4000/play/a002/index.m3u8
+#EXTINF:-1 group-title="EPL", LIVE EPL
+https://tv2.tructiep.space/live/7bad6debab66223b/playlist.m3u8
+#EXTINF:-1 group-title="EPL", LIVE EPL
+https://tv2.tructiep.space/live/51aec3ce959837cb/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE LFC", LFC TV
 http://england.mazystreams.xyz/live/2/chunks.m3u8?tla

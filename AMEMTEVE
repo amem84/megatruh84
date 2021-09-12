@@ -33,6 +33,11 @@ https://utama.lancar.tech:8443/paijem/paijem/86867
 #EXTINF:-1 group-title="BEINS",Bein Sports MAX
 https://utama.lancar.tech:8443/paijem/paijem/64780
 
+#EXTINF:-1 group-title="FOOTBALL CLUB",LFC TV
+https://utama.lancar.tech:8443/paijem/paijem/87729
+#EXTINF:-1 group-title="FOOTBALL CLUB",Bayern FC TV
+https://utama.lancar.tech:8443/paijem/paijem/87728
+
 #EXTINF:-1 group-title="ASSP" ,Astro Arena
 https://utama.lancar.tech:8443/paijem/paijem/54701
 #EXTINF:-1 group-title="ASSP" ,Astro Super Sport 1

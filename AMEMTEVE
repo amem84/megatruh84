@@ -1,39 +1,76 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE", MOTO GP
-http://31.220.41.86:8081/live/klub2.stream/chunks.m3u8
-#EXTINF:-1 group-title="LIVE", MOTO GP
-https://13.251.228.53:443/live-player/4/live.m3u8
-#EXTINF:-1 group-title="LIVE", MOTO GP
-https://13.251.228.53:443/live-player/20/live.m3u8
-#EXTINF:-1 group-title="LIVE", MOTO GP
-http://minafire.com:25461/live/URBCM2OYxG/JWV5WJUUnt/57.m3u8
-#EXTINF:-1 group-title="LIVE", MOTO GP
-https://cdn1.cdn.motogp.com/hls/ipfmix/index.m3u8?token=1631456588_4f40a163f6670f345d7e51fa043d1adbeea11df0&start=1631427615
-#EXTINF:-1 group-title="LIVE", MOTO GP
-https://tv3.calcio01.pw/live/moto.m3u8
-#EXTINF:-1 group-title="LIVE", MOTO GP
-http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:-1 group-title="LIVE", MOTO GP
-http://91.126.141.13:1935/live/61/1800-def.m3u8
-#EXTINF:-1 group-title="LIVE", MOTO GP
-https://cdn1.cdn.motogp.com/hls/ob3/index.m3u8?token=1631465583_786316f494929f0a15ec7ff5e731a319abc9dd53&start=1631428499
-#EXTINF:-1 group-title="LIVE", MOTO GP
-https://cdn1motogpcom.akamaized.net/hls/ob2/index.m3u8?token=st=1631437524~exp=1631465577~acl=/hls/ob2/*~hmac=f630da6f2ac9cc36a59278b43463ede3855170b9ba5a17b71d6f507e56e27777&start=1631428499
-#EXTINF:-1 group-title="LIVE", MOTO GP
-https://cdn1.cdn.motogp.com/hls/ob1/index.m3u8?token=1631465570_8144101e91e720403cfe26cf0d59aab90df8ad7a&start=1631428499
-#EXTINF:-1 group-title="LIVE", MOTO GP
-https://cdn1motogpcom.akamaized.net/hls/heli/3.m3u8?token=st=1631437453~exp=1631465558~acl=/hls/heli/*~hmac=802abeaa0ded2fccc73dd7ad43bf881684f5f54084564952fa21e41c1e3d4078&start=1631428499&
-#EXTINF:-1 group-title="LIVE", MOTO GP
-https://13.251.228.53:443/live-player/11/live.m3u8
+#EXTINF:-1 group-title="BT",BT Sport 1
+https://utama.lancar.tech:8443/paijem/paijem/86856
+#EXTINF:-1 group-title="BT",BT Sport 2
+https://utama.lancar.tech:8443/paijem/paijem/86857
+#EXTINF:-1 group-title="BT",BT Sport 3
+https://utama.lancar.tech:8443/paijem/paijem/86858
 
-#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/fy0bQb4Z/Astro-Cricket-Logo-2.png", ASTRO Cricket
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
-#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png", ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png", ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
-#EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png", ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+#EXTINF:-1 group-title="BEINS",Bein Premium 1
+https://utama.lancar.tech:8443/paijem/paijem/54421
+#EXTINF:-1 group-title="BEINS",Bein Premium 2
+https://utama.lancar.tech:8443/paijem/paijem/54422
+#EXTINF:-1 group-title="BEINS",Bein Premium 3
+https://utama.lancar.tech:8443/paijem/paijem/54423
+#EXTINF:-1 group-title="BEINS",beIN Sports 1 HEVC
+https://utama.lancar.tech:8443/paijem/paijem/86861
+#EXTINF:-1 group-title="BEINS",beIN Sports 1 ID
+https://utama.lancar.tech:8443/paijem/paijem/25
+#EXTINF:-1 group-title="BEINS",beIN Sports 2 HEVC
+https://utama.lancar.tech:8443/paijem/paijem/86862
+#EXTINF:-1 group-title="BEINS",beIN Sports 2 ID
+https://utama.lancar.tech:8443/paijem/paijem/26
+#EXTINF:-1 group-title="BEINS",beIN Sports 3 HEVC
+https://utama.lancar.tech:8443/paijem/paijem/86863
+#EXTINF:-1 group-title="BEINS",beIN Sports 4 HEVC
+https://utama.lancar.tech:8443/paijem/paijem/86864
+#EXTINF:-1 group-title="BEINS",beIN Sports 5 HEVC
+https://utama.lancar.tech:8443/paijem/paijem/86865
+#EXTINF:-1 group-title="BEINS",beIN Sports 6 HEVC
+https://utama.lancar.tech:8443/paijem/paijem/86866
+#EXTINF:-1 group-title="BEINS",beIN Sports 7 HEVC
+https://utama.lancar.tech:8443/paijem/paijem/86867
+#EXTINF:-1 group-title="BEINS",Bein Sports MAX
+https://utama.lancar.tech:8443/paijem/paijem/64780
+
+#EXTINF:-1 group-title="ASSP" ,Astro Arena
+https://utama.lancar.tech:8443/paijem/paijem/54701
+#EXTINF:-1 group-title="ASSP" ,Astro Super Sport 1
+https://utama.lancar.tech:8443/paijem/paijem/53222
+#EXTINF:-1 group-title="ASSP" ,Astro Super Sport 2
+https://utama.lancar.tech:8443/paijem/paijem/53223
+#EXTINF:-1 group-title="ASSP" ,Astro Super Sport 3
+https://utama.lancar.tech:8443/paijem/paijem/53224
+#EXTINF:-1 group-title="ASSP" ,Astro Super Sport 4
+https://utama.lancar.tech:8443/paijem/paijem/53225
+
+#EXTINF:-1 group-title="FOX GROUP",Fox Action Movies
+https://utama.lancar.tech:8443/paijem/paijem/53
+#EXTINF:-1 group-title="FOX GROUP",Fox Crime
+https://utama.lancar.tech:8443/paijem/paijem/54
+#EXTINF:-1 group-title="FOX GROUP",Fox Family Movies
+https://utama.lancar.tech:8443/paijem/paijem/41257
+#EXTINF:-1 group-title="FOX GROUP",Fox Life
+https://utama.lancar.tech:8443/paijem/paijem/762
+#EXTINF:-1 group-title="FOX GROUP",Fox Movies Premium
+https://utama.lancar.tech:8443/paijem/paijem/52
+#EXTINF:-1 group-title="FOX GROUP",Fox News
+https://utama.lancar.tech:8443/paijem/paijem/55816
+#EXTINF:-1 group-title="FOX GROUP",Fox Sports 1
+https://utama.lancar.tech:8443/paijem/paijem/68
+#EXTINF:-1 group-title="FOX GROUP",Fox Sports 2
+https://utama.lancar.tech:8443/paijem/paijem/69
+#EXTINF:-1 group-title="FOX GROUP",Fox Sports 3
+https://utama.lancar.tech:8443/paijem/paijem/70
+
+#EXTINF:-1 group-title="HBO GROUP",HBO 
+https://utama.lancar.tech:8443/paijem/paijem/56
+#EXTINF:-1 group-title="HBO GROUP",HBO Family
+https://utama.lancar.tech:8443/paijem/paijem/75
+#EXTINF:-1 group-title="HBO GROUP",HBO Hits
+https://utama.lancar.tech:8443/paijem/paijem/92
+#EXTINF:-1 group-title="HBO GROUP",HBO Signature
+https://utama.lancar.tech:8443/paijem/paijem/28656
 
 #EXTINF: -1 group-title="Sky Sport",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
@@ -43,6 +80,22 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF: -1 group-title="Sky Sport",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Sky Sport",Sky Moto GP
+https://utama.lancar.tech:8443/paijem/paijem/87723
+#EXTINF:-1 group-title="Sky Sport",Sky News
+https://utama.lancar.tech:8443/paijem/paijem/87731
+#EXTINF:-1 group-title="Sky Sport",Sky News AU
+https://utama.lancar.tech:8443/paijem/paijem/54417
+#EXTINF:-1 group-title="Sky Sport",Sky Sports F1
+https://utama.lancar.tech:8443/paijem/paijem/87717
+#EXTINF:-1 group-title="Sky Sport",Sky Sports Football
+https://utama.lancar.tech:8443/paijem/paijem/87718
+#EXTINF:-1 group-title="Sky Sport",Sky Sports Golf
+https://utama.lancar.tech:8443/paijem/paijem/87716
+#EXTINF:-1 group-title="Sky Sport",Sky Sports Main Event
+https://utama.lancar.tech:8443/paijem/paijem/87719
+#EXTINF:-1 group-title="Sky Sport",Sky Sports Premier League
+https://utama.lancar.tech:8443/paijem/paijem/86868
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORT",True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8

@@ -1,48 +1,30 @@
 #EXTM3U
-#EXTINF:-1 group-title="EPL", LIVE EPL
-http://89.187.185.100:80/BT_SPORTS_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-http://185.53.89.183/hls/nbcsn.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-http://londonb.mazystreams.xyz:80/live/1/chunks.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://tv3.calcio01.pw/live/totten.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_3.m3u8?t=1631359869717
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/o03RCy_iuFzeG1Vxl20ugeE5X9WpDvGayrBrHm2Jabbzl2CaaAFoBy8jzEKQFApBNGBKpDnFicGsPczFN8Qgew/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/dynamic_hlsproducer.m3u8?type=live
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://stmv5.samcast.com.br/caroline3961/caroline3961/playlist.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://ajrm5gczh26too.data.mediastore.us-east-1.amazonaws.com:443/stream/index_1280x720.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-http://185.53.89.183/hls/suspr.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-http://flusonic-1.platinum-tv.com:80/USA_NETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-http://12.yaciaptk.xyz/live/6161655/index.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-http://14.yaciaptk.xyz/live/616194987/index.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-http://1.yaciaptk.xyz/live/6161655/index.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://dwm7b47ymr4go.cloudfront.net/out/v1/b594d34ec85b423688bd91ecef44ea13/index.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113137/85569341.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://d2u41sz0ro4arp.cloudfront.net/out/v1/43bef82b171343e9a2bb73afed960b46/index_2.m3u8
-#EXTINF:-1 group-title="EPL", LIVE EPL
-https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_1.m3u8
+#EXTINF:-1 group-title="LIVE", MOTO GP
+http://31.220.41.86:8081/live/klub2.stream/chunks.m3u8
+#EXTINF:-1 group-title="LIVE", MOTO GP
+https://13.251.228.53:443/live-player/4/live.m3u8
+#EXTINF:-1 group-title="LIVE", MOTO GP
+https://13.251.228.53:443/live-player/20/live.m3u8
+#EXTINF:-1 group-title="LIVE", MOTO GP
+http://minafire.com:25461/live/URBCM2OYxG/JWV5WJUUnt/57.m3u8
+#EXTINF:-1 group-title="LIVE", MOTO GP
+https://cdn1.cdn.motogp.com/hls/ipfmix/index.m3u8?token=1631456588_4f40a163f6670f345d7e51fa043d1adbeea11df0&start=1631427615
+#EXTINF:-1 group-title="LIVE", MOTO GP
+https://tv3.calcio01.pw/live/moto.m3u8
+#EXTINF:-1 group-title="LIVE", MOTO GP
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1 group-title="LIVE", MOTO GP
+http://91.126.141.13:1935/live/61/1800-def.m3u8
+#EXTINF:-1 group-title="LIVE", MOTO GP
+https://cdn1.cdn.motogp.com/hls/ob3/index.m3u8?token=1631465583_786316f494929f0a15ec7ff5e731a319abc9dd53&start=1631428499
+#EXTINF:-1 group-title="LIVE", MOTO GP
+https://cdn1motogpcom.akamaized.net/hls/ob2/index.m3u8?token=st=1631437524~exp=1631465577~acl=/hls/ob2/*~hmac=f630da6f2ac9cc36a59278b43463ede3855170b9ba5a17b71d6f507e56e27777&start=1631428499
+#EXTINF:-1 group-title="LIVE", MOTO GP
+https://cdn1.cdn.motogp.com/hls/ob1/index.m3u8?token=1631465570_8144101e91e720403cfe26cf0d59aab90df8ad7a&start=1631428499
+#EXTINF:-1 group-title="LIVE", MOTO GP
+https://cdn1motogpcom.akamaized.net/hls/heli/3.m3u8?token=st=1631437453~exp=1631465558~acl=/hls/heli/*~hmac=802abeaa0ded2fccc73dd7ad43bf881684f5f54084564952fa21e41c1e3d4078&start=1631428499&
+#EXTINF:-1 group-title="LIVE", MOTO GP
+https://13.251.228.53:443/live-player/11/live.m3u8
 
 #EXTINF:-1 group-title="ASSP"  tvg-logo="https://i.postimg.cc/fy0bQb4Z/Astro-Cricket-Logo-2.png", ASTRO Cricket
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717

@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
+https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
+https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
+http://209.126.119.148:25461/live/4fd649c301554f0ea570ce3934dd6986/1bec5e2b244344c9943b22bb6fe9407d/46.m3u8
+#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
+http://145.239.2.125:42021/live/7163d946c7fa45a8ac8d39e841e7261f/d3c099abd92946ff818210cae7ae8b76/1.m3u8
+#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
+http://77.247.109.101/hls/A1.m3u8
+#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
+https://tv1.calcio01.pw/live/siviglia.m3u8
+#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
+http://18.alysineoura.xyz/live/616194987/index.m3u8
+#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
+https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
+https://bal.varcdn1.ru/lb/m1/index.m3u8
+
 #EXTINF:-1 group-title="beIN Sprot",beIN SPORTS PREMIUM 1
 http://141.94.79.21:8000/youtube@mantechnology/20212501/87
 #EXTINF:-1 group-title="beIN Sprot",beIN SPORTS PREMIUM 2

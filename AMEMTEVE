@@ -1,14 +1,50 @@
 #EXTM3U
-#EXTINF:-1 group-title="EPL", LEEDS V LFC
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-#EXTINF:-1 group-title="EPL", LEEDS V LFC
-https://95-213-224-179.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 group-title="EPL", LEEDS V LFC
-http://londonb.mazystreams.xyz:80/live/1/chunks.m3u8
-#EXTINF:-1 group-title="EPL", LEEDS V LFC
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
-#EXTINF:-1 group-title="EPL", LEEDS V LFC
-http://213.7.193.54:4000/play/a002/index.m3u8
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS PREMIUM 1
+http://141.94.79.21:8000/youtube@mantechnology/20212501/87
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS PREMIUM 2
+http://141.94.79.21:8000/youtube@mantechnology/20212501/88
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS PREMIUM 3
+http://141.94.79.21:8000/youtube@mantechnology/20212501/89
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 1
+http://141.94.79.21:8000/youtube@mantechnology/20212501/90
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 2
+http://141.94.79.21:8000/youtube@mantechnology/20212501/91
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 3
+http://141.94.79.21:8000/youtube@mantechnology/20212501/92
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 4
+http://141.94.79.21:8000/youtube@mantechnology/20212501/93
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 5
+http://141.94.79.21:8000/youtube@mantechnology/20212501/94
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 6
+http://141.94.79.21:8000/youtube@mantechnology/20212501/95
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 7
+http://141.94.79.21:8000/youtube@mantechnology/20212501/96
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS XTRA 1 
+http://141.94.79.21:8000/youtube@mantechnology/20212501/133
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS XTRA 2
+http://141.94.79.21:8000/youtube@mantechnology/20212501/134
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS PREMIUM 1 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/140
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS PREMIUM 2 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/141
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS PREMIUM 3 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/142
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 1 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/143
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 2 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/144
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 3 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/145
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 4 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/146
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 5 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/147
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 6 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/148
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS 7 HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/149
+#EXTINF:-1 group-title="beIN Sprot",beIN SPORTS NBA HD
+http://141.94.79.21:8000/youtube@mantechnology/20212501/230
 
 #EXTINF:-1 group-title="BT",BT Sport 1
 https://utama.lancar.tech:8443/paijem/paijem/86856

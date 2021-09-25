@@ -1,21 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="SSC",SSC HD1
-http://mo3ad.xyz:8080/mo3ad92/mo3ad92/39
-#EXTINF:-1 group-title="SSC",SSC 1
-http://mo3ad.xyz:8080/mo3ad92/mo3ad92/40
-#EXTINF:-1 group-title="SSC",SSC 2
-http://mo3ad.xyz:8080/mo3ad92/mo3ad92/41
-#EXTINF:-1 group-title="SSC",SSC 3
-http://mo3ad.xyz:8080/mo3ad92/mo3ad92/42
-#EXTINF:-1 group-title="SSC",SSC 4
-http://mo3ad.xyz:8080/mo3ad92/mo3ad92/43
-#EXTINF:-1 group-title="SSC",SSC 5
-http://mo3ad.xyz:8080/mo3ad92/mo3ad92/44
-#EXTINF:-1 group-title="SSC",SSC 6 HD
-http://mo3ad.xyz:8080/mo3ad92/mo3ad92/45
-#EXTINF:-1 group-title="SSC",SSC 7
-http://mo3ad.xyz:8080/mo3ad92/mo3ad92/46
-
+#EXTINF:-1 group-title="LIVE",CHE v CITY
+https://178.17.167.58/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE",CHE v CITY
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+#EXTINF:-1 group-title="LIVE",CHE v CITY
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
+#EXTINF:-1 group-title="LIVE",CHE v CITY
+http://31.220.41.86:8081/live/klub1.stream/chunks.m3u8
+#EXTINF:-1 group-title="LIVE",CHE v CITY
+https://google-me.cdn.booyah.live/hls/113130/85565524.m3u8
+#EXTINF:-1 group-title="LIVE",CHE v CITY
+https://tv3.calcio01.pw/live/city.m3u8
+ 
 #EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 1 LOW PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
 http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/860
@@ -148,7 +144,7 @@ http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/825
 #EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 7 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
 http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/826
-
+ 
 #EXTINF:-1 group-title="SPROTMIX",CANAL+ SPORT FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
 http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/827
@@ -191,7 +187,7 @@ http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/845
 #EXTINF:-1 group-title="SPROTMIX",BeINSPORTS 10 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
 http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/846
-
+ 
 #EXTINF:-1 group-title="SPROTMIX",BEIN SPORT NEWS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
 http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/794
@@ -216,7 +212,7 @@ http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/858
 #EXTINF:-1 group-title="SPROTMIX",RMC SPORT 2 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
 http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/859
-
+ 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 002  
@@ -269,7 +265,7 @@ http://www.supercartube.com/media/videos/h264/170_480p.mp4
 http://www.supercartube.com/media/videos/h264/171_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 026  
 http://www.supercartube.com/media/videos/h264/172_480p.mp4
-
+ 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtjMm7x5/g.jpg"group-title="VOD JAV",DVAJ-0057
 http://video1.feimanzb.com:8091/20180115/DVAJ-0057-C/550kb/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtjMm7x5/g.jpg"group-title="VOD JAV",EQ-243

@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1 group-title="SSC",SSC HD1
+http://mo3ad.xyz:8080/mo3ad92/mo3ad92/39
+#EXTINF:-1 group-title="SSC",SSC 1
+http://mo3ad.xyz:8080/mo3ad92/mo3ad92/40
+#EXTINF:-1 group-title="SSC",SSC 2
+http://mo3ad.xyz:8080/mo3ad92/mo3ad92/41
+#EXTINF:-1 group-title="SSC",SSC 3
+http://mo3ad.xyz:8080/mo3ad92/mo3ad92/42
+#EXTINF:-1 group-title="SSC",SSC 4
+http://mo3ad.xyz:8080/mo3ad92/mo3ad92/43
+#EXTINF:-1 group-title="SSC",SSC 5
+http://mo3ad.xyz:8080/mo3ad92/mo3ad92/44
+#EXTINF:-1 group-title="SSC",SSC 6 HD
+http://mo3ad.xyz:8080/mo3ad92/mo3ad92/45
+#EXTINF:-1 group-title="SSC",SSC 7
+http://mo3ad.xyz:8080/mo3ad92/mo3ad92/46
+
 #EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 1 LOW PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
 http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/860

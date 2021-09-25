@@ -1,364 +1,204 @@
 #EXTM3U
-#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
-http://209.126.119.148:25461/live/4fd649c301554f0ea570ce3934dd6986/1bec5e2b244344c9943b22bb6fe9407d/46.m3u8
-#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
-http://145.239.2.125:42021/live/7163d946c7fa45a8ac8d39e841e7261f/d3c099abd92946ff818210cae7ae8b76/1.m3u8
-#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
-http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
-https://tv1.calcio01.pw/live/siviglia.m3u8
-#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
-http://18.alysineoura.xyz/live/616194987/index.m3u8
-#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-#EXTINF:-1 group-title="UCL LIVE", UCL LIVE MATCH
-https://bal.varcdn1.ru/lb/m1/index.m3u8
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 1 LOW PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/860
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 2 LOW PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/861
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 3 LOW PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/862
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 1 SD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/847
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 2 SD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/848
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 3 SD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/849
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 1 PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/799
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 2 PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/800
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 3 PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/801
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 1 PREMIUM FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/817
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 2 PREMIUM FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/818
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 3 PREMIUM FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/819
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS  1 PREMIUM  4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/834
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 2 PREMIUM 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/835
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 3 PREMIUM 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/836
+#EXTINF:-1 group-title="SPROTBEIN",BeIN SPORTS 1 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/837
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT LOW 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/863
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT LOW 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/864
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT LOW 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/865
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT LOW 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/866
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT LOW 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/867
+#EXTINF:-1 group-title="SPROTBEIN",bein sport xtra 01 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/869
+#EXTINF:-1 group-title="SPROTBEIN",bein sport xtra 02 hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/870
+#EXTINF:-1 group-title="SPROTBEIN",BEIN SPORT 1 SD  1M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/850
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 2 SD  1M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/851
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 3 SD  1M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/852
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 4 SD  1M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/853
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 5 SD  1M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/854
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 6 SD  1M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/855
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORT 7 SD  1M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/856
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/802
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/803
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/804
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/805
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/806
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/807
+#EXTINF:-1 group-title="SPROTBEIN",BEINSPORTS 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/808
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/820
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/821
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/822
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/823
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 5 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/824
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 6 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/825
+#EXTINF:-1 group-title="SPROTBEIN",BeINSPORTS 7 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/826
 
-#EXTINF: -1 group-title="Sky Sport",Sky Racing 1
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF: -1 group-title="Sky Sport",Sky Racing 2
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF: -1 group-title="Sky Sport",Sky Racing 3
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF: -1 group-title="Sky Sport",Eurosport 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="SPROTMIX",CANAL+ SPORT FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/827
+#EXTINF:-1 group-title="SPROTMIX",RMC SPORT 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/828
+#EXTINF:-1 group-title="SPROTMIX",RMC SPORT 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/829
+#EXTINF:-1 group-title="SPROTMIX",BEIN SPORT NEWS 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/832
+#EXTINF:-1 group-title="SPROTMIX",BEINSPORTS HD 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/833
+#EXTINF:-1 group-title="SPROTMIX",BeINSPORTS 2 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/838
+#EXTINF:-1 group-title="SPROTMIX",BeINSPORTS 3 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/839
+#EXTINF:-1 group-title="SPROTMIX",BeINSPORTS 4 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/840
+#EXTINF:-1 group-title="SPROTMIX",BeIN SPORTS 5 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/841
+#EXTINF:-1 group-title="SPROTMIX",BeINSPORTS 6 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/842
+#EXTINF:-1 group-title="SPROTMIX",BeINSPORTS 7 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/843
+#EXTINF:-1 group-title="SPROTMIX",BeINSPORTS 8 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/844
+#EXTINF:-1 group-title="SPROTMIX",BeINSPORTS 9 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/845
+#EXTINF:-1 group-title="SPROTMIX",BeINSPORTS 10 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/846
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORT",True Sport HD1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="SPORT",True Sport HD2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="SPORT",True Sport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 vg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORT",FOX SPORTS
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9c/89/89/9c89898b-e6fd-3a8e-7dbb-d7bbbe7d6659/source/200x200bb.jpg" group-title="SPORT",REDBULL
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="SPORT",SPORTTV 3 720p
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/sqxxtw1470409111.png" group-title="SPORT",SPORTTV 1 720p
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png" group-title="SPORT",SPORTTV 2 720p
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.96.72/picon/SPORTV4FHD.png" group-title="SPORT",SPORTTV 4 720p
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="SPORT",SPORTTV 5 720p
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/967-9676257_bt-sport-2-logo.png" group-title="SPORT",BTSPORTHD 2 720p
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_1_%28pre-launch%29.svg/revision/latest/scale-to-width-down/250?cb=20130806193244" group-title="SPORT",BTSPORTHD 1 720p
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sky-sports-f1-logo-6B66C379B2-seeklogo.com.png" group-title="SPORT",SkySport F1
-http://31.220.41.90:8081/live/skysportsf1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-motogp-360.png" group-title="SPORT",SkyMoto
-http://31.220.41.90:8081/live/it-skymoto.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1441.png" group-title="SPORT",QAZ SPORT
-http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180530/yty/kisspng-logo-tv5monde-high-definition-television-canadian-5b0f4283673910.0089077615277267234228.jpg" group-title="SPORT",TV5 HD
-http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="SPORT",ESPN US HD
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/847322712112381952/9AOfidU5_400x400.jpg" group-title="SPORT",ITV SD
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1200.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/847322712112381952/9AOfidU5_400x400.jpg" group-title="SPORT",ITV Low
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main800.m3u8
-
-#EXTINF:-1   tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Amem@Sports",True Premier HD 1 
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8 
-#EXTINF:-1   tvg-logo="http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="Amem@Sports",True Premier HD 2 
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8 
-#EXTINF:-1   tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="Amem@Sports",True Premier HD 3 
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8 
-#EXTINF:-1   tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="Amem@Sports",True Premier HD 4 
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8 
-#EXTINF:-1   tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png" group-title="Amem@Sports",True Premier HD 5 
-http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjDnpgPTk_PLPuPv4_SqkcnrvUX71bpeeJOx1bZ_k8fJnLt_f11HDhCSX9QDEXrpNhtA8&usqp=CAU" group-title="Amem@Sports",SportTv1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.pinimg.com/236x/17/d3/9a/17d39a6feab8bd83f98881d2dd9df016.jpg" group-title="Amem@Sports",SportTv2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.pinimg.com/originals/9f/82/f0/9f82f0a2a590bf589bb97c5c03588ac5.png" group-title="Amem@Sports",SportTv3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.vippng.com/png/small/79-798645_sport-tv-1-logo.png" group-title="Amem@Sports",SportTv4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="Amem@Sports",SportTv5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjDnpgPTk_PLPuPv4_SqkcnrvUX71bpeeJOx1bZ_k8fJnLt_f11HDhCSX9QDEXrpNhtA8&usqp=CAU" group-title="Amem@Sports",Sport TV1
-https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.pinimg.com/236x/17/d3/9a/17d39a6feab8bd83f98881d2dd9df016.jpg" group-title="Amem@Sports",Sport TV2
-https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.pinimg.com/originals/9f/82/f0/9f82f0a2a590bf589bb97c5c03588ac5.png" group-title="Amem@Sports",Sport TV3
-https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.vippng.com/png/small/79-798645_sport-tv-1-logo.png" group-title="Amem@Sports",Sport TV4
-https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="Amem@Sports",Sport TV5
-https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/FSA3.png/revision/latest/scale-to-width-down/918?cb=20131030210424" group-title="Amem@Sports", Fox Sport 3 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="Amem@Sports", Eleven Sports 1 PL
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg" group-title="Amem@Sports", Eleven Sports 2 PL
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRAnRfyfZ2A73-1fnl7Rk4OB3cAqR8QUsb1UkAaKg=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@Sports", Bein Sports 1 Asia
-https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRAnRfyfZ2A73-1fnl7Rk4OB3cAqR8QUsb1UkAaKg=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@Sports", Bein Sports 2 Asia
-https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_1_%28pre-launch%29.svg/revision/latest/scale-to-width-down/250?cb=20130806193244" group-title="Amem@Sports", BT Sports 1 UK
-https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/967-9676257_bt-sport-2-logo.png" group-title="Amem@Sports", Bt Sports 2 UK
-https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-7arl-HGiGeE/Ww__Oo_fvLI/AAAAAAAAGAk/44n5OBLFupYaGopEqwgHB2GK3Ly0Hr53gCLcBGAs/s1600/download%2B%25284%2529.png" group-title="Amem@Sports", Bt Sports 3 UK
-http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005891_fox-sports-2-fox-sports-hd-png-download.png" group-title="Amem@Sports", Fox Sport 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/548-5487141_fox-sports-3-l-fox-sports-1-clipart.png" group-title="Amem@Sports", Fox Sport 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="EURO1" tvg-name="EURO 1 -Backup" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="Amem@Sports",EURO 1 -Backup
-https://link.zozotv.xyz:443/Freemium4/unlimited99/302
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/GnZxD0M/xfh.png" group-title="Amem@Sports",FOX Sport 1
-https://link.zozotv.xyz:443/Freemium4/unlimited99/159
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/NyJNdH0/cgyf.png" group-title="Amem@Sports",FOX Sport 2
-https://link.zozotv.xyz:443/Freemium4/unlimited99/160
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tsrt8S3/nvc.png" group-title="Amem@Sports",FOX Sport 3
-https://link.zozotv.xyz:443/Freemium4/unlimited99/161
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="Amem@Sports",beIN Sports 1 ID
-https://link.zozotv.xyz:443/Freemium4/unlimited99/162
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="Amem@Sports",beIN Sports 2 ID
-https://link.zozotv.xyz:443/Freemium4/unlimited99/163
-#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/02RRn5F/tyrty.png" group-title="Amem@Sports",Champions 1
-https://link.zozotv.xyz:443/Freemium4/unlimited99/164
-#EXTINF:-1 tvg-id="" tvg-name="Champions 2" tvg-logo="https://i.ibb.co/25f0KrC/HFRR.png" group-title="Amem@Sports",Champions 2
-https://link.zozotv.xyz:443/Freemium4/unlimited99/165
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="Amem@Sports",BT Sport 1
-https://link.zozotv.xyz:443/Freemium4/unlimited99/173
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="Amem@Sports",BT Sport 2
-https://link.zozotv.xyz:443/Freemium4/unlimited99/174
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.ibb.co/CMrDP1P/S1.png" group-title="Amem@Sports",Sport TV 1
-https://link.zozotv.xyz:443/Freemium4/unlimited99/176
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.ibb.co/8Xvt9qy/S2.png" group-title="Amem@Sports",Sport TV 2
-https://link.zozotv.xyz:443/Freemium4/unlimited99/177
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://i.ibb.co/FDBMm6w/S3.png" group-title="Amem@Sports",Sport TV 3
-https://link.zozotv.xyz:443/Freemium4/unlimited99/178
-#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="Amem@Sports",Arena
-https://link.zozotv.xyz:443/Freemium4/unlimited99/154
-#EXTINF:-1 group-title="Amem@Sports", EuroSports 1 Uk
-https://sport.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Amem@Sports", EuroSports 2 Uk
-https://sport.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/ZYMPd4SS/1200px-Fox-Sports-Logo-svg.png", FOX Sports HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
-#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/Dzf3Htwx/fox-sports-2-logo-876-FE0-A3-C1-seeklogo-com.png", FOX Sports 2 HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
-#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/QMhyV1LC/837-300.png", FOX Sports 3 HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
-#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg", WWE Network
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
-#EXTINF:-1 group-title="Amem@Sports"  tvg-logo="https://i.postimg.cc/NGX652N1/0oc4b-Nx1esqf-G02-LC9f6f-Vp-I3-Gv-AE-1542901919-KJY9-GHGf.png", Rugby Pass TV
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6821
-#EXTINF:-1 group-title="Amem@Sports", Sony LIV (Medium Quality)
-http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
-#EXTINF:-1 group-title="Amem@Sports", Sony SIX HD
-http://180.210.191.2/hls/stream10.m3u8
-#EXTINF:-1 group-title="Amem@Sports", Sony Six 
-http://103.81.104.118/hls/stream10.m3u8
-#EXTINF:-1 group-title="Amem@Sports", Sony Ten 1
-http://103.81.104.118/hls/stream40.m3u8
-#EXTINF:-1 group-title="Amem@Sports", Sony Ten 2 
-http://103.81.104.118/hls/stream39.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Amem@Movies",HBO HD
-https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng6h-TevXIWt0L3T75TOWVRz19zi09C061D3FWUl6Y=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@Movies",HBO Malay
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng6h-TevXIWt0L3T75TOWVRz19zi09C061D3FWUl6Y=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@Movies",HB 3
-https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng6h-TevXIWt0L3T75TOWVRz19zi09C061D3FWUl6Y=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@Movies",HBO Hits Malay
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng6h-TevXIWt0L3T75TOWVRz19zi09C061D3FWUl6Y=s88-c-k-c0x00ffffff-no-rj" group-title="Amem@Movies",HBO Signature Malay
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Amem@Movies",HBO
-https://link.zozotv.xyz:443/Freemium4/unlimited99/96
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Amem@Movies",HBO Hits
-https://link.zozotv.xyz:443/Freemium4/unlimited99/97
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Amem@Movies",HBO Family
-https://link.zozotv.xyz:443/Freemium4/unlimited99/98
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Amem@Movies",HBO Signature
-https://link.zozotv.xyz:443/Freemium4/unlimited99/99
-#EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-name="FOX Movies Premium" tvg-logo="https://i.ibb.co/y4ZwgwB/ghfr.png" group-title="Amem@Movies",FOX Movies Premium
-https://link.zozotv.xyz:443/Freemium4/unlimited99/100
-#EXTINF:-1 tvg-id="FOXActionMoviesHD.MACAN" tvg-name="FOX Action Movies" tvg-logo="https://i.ibb.co/ngDt2ys/ht.png" group-title="Amem@Movies",FOX Action Movies
-https://link.zozotv.xyz:443/Freemium4/unlimited99/101
-#EXTINF:-1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-name="FOX Family Movies" tvg-logo="https://i.ibb.co/HHzfKmP/ASDZXC.png" group-title="Amem@Movies",FOX Family Movies
-https://link.zozotv.xyz:443/Freemium4/unlimited99/102
-
-#EXTINF:-1 group-title="Amem@Movies", FXX USA EAST
-http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
-#EXTINF:-1 group-title="Amem@Movies", SYFY USA EAST
-http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
-#EXTINF:-1 group-title="Amem@Movies", HBO EAST
-http://51.79.82.231:8080/US_HBO_EAST/video.m3u8
-#EXTINF:-1 group-title="Amem@Movies", HBO WEST
-http://51.79.82.231:8080/US_HBO_2/video.m3u8
-#EXTINF:-1 group-title="Amem@Movies", HBO SIGNATURE USA
-http://51.79.82.231:8080/US_HBO_SIGNATURE/video.m3u8
-#EXTINF:-1 group-title="Amem@Movies", HBO FAMILY USA
-http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animax.png" group-title="Amem@Movies",ANIMAX
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr_hd.png" group-title="Amem@Movies", ANIPLUS
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/jDKvSs3/CVZXS.png" group-title="Amem@Movies",Animax
-https://link.zozotv.xyz:443/Freemium4/unlimited99/69
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/cDJYGmg/yiuy.png" group-title="Amem@Movies",Aniplus
-https://link.zozotv.xyz:443/Freemium4/unlimited99/70
-#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="Amem@Movies",tvN
-https://link.zozotv.xyz:443/Freemium4/unlimited99/75
-#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="Amem@Movies",tvN Movies
-https://link.zozotv.xyz:443/Freemium4/unlimited99/76
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://i.ibb.co/n3HP87W/xcf.png" group-title="Amem@Movies",KBS World
-https://link.zozotv.xyz:443/Freemium4/unlimited99/78
-#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="Amem@Movies",K+
-https://link.zozotv.xyz:443/Freemium4/unlimited99/80
-#EXTINF:-1 tvg-id="FOX.MACAN" tvg-name="FOX" tvg-logo="https://i.ibb.co/n0V45gH/zx.png" group-title="Amem@Movies",FOX
-https://link.zozotv.xyz:443/Freemium4/unlimited99/90
-#EXTINF:-1 tvg-id="FOXCrime.MACAN" tvg-name="FOX Crime" tvg-logo="https://i.ibb.co/mS62DC1/RDFH.png" group-title="Amem@Movies",FOX Crime
-https://link.zozotv.xyz:443/Freemium4/unlimited99/91
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="Amem@Movies",AXN
-https://link.zozotv.xyz:443/Freemium4/unlimited99/83
-#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="Amem@Movies",Warner TV
-https://link.zozotv.xyz:443/Freemium4/unlimited99/86
-
-#EXTINF:-1 tvg-id="hbohd" group-title="Amem@Movies" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
-#EXTINF:-1,tvg-id="hbohd" group-title="Amem@Movies" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="Amem@Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="Amem@Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1, group-title="Amem@Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",HBO HITS 
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1,group-title="Amem@Movies" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/d/dc/HBO_Signature_2014_(Stacked).png",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 group-title="Amem@Movies" tvg-logo="https://vignette.wikia.nocookie.net/newlogosfake/images/d/dc/HBO_Signature_2014_(Stacked).png",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 group-title="Amem@Movies"tvg-logo="https://htvc.vn/uploads/editor/images/422x278%20Red_by_HBO_colour.png",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 group-title="Amem@Movies" tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png",CINEMAX
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-id="FOXMovies" group-title="Amem@Movies" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",Fox Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-id="FOXMovies" group-title="Amem@Movies" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",FOX MOVIES
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-language="id" tvg-id="Erz.hbo" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU", HBO
-https://iptvid.cgflix.xyz/vidio/hbo.m3u8
-#EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbosig" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU", HBO Signature
-https://iptvid.cgflix.xyz/vidio/hbo_sig.m3u8
-#EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbohits" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU",HBO Hits
-https://iptvid.cgflix.xyz/vidio/hbo_hits.m3u8
-#EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbofam" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU", HBO Family
-https://iptvid.cgflix.xyz/vidio/hbo_fam.m3u8
-#EXTINF:-1 tvg-id="Erz.cinemax" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU", HBO CINEMAX
-https://iptvid.cgflix.xyz/vidio/cinemax.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" group-title="Movies", FOX
-http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="Movies", FOX ACTION MOVIES
-http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-//#EXTINF:-1 tvg-id="Erz.foxlife" tvg-language="ind" tvg-id="foxlife" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU",FOX LIFE
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-//#EXTINF:-1 tvg-id="Erz.foxmovies" tvg-language="ind" tvg-id="foxmovies" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU",FOX Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-language="ind" tvg-id="Erz.foxfamilymovies" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU",FOX FAMILY Movies
-http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="Erz.WB" tvg-id="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="Amem@Movies", WarnerBros Tv
-http://iptvid.cgflix.xyz/Usee/movies/wrnr.m3u8
-
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/gkhkr3wyklg5n77/fox_global.png?dl=1" group-title="Fox & Hbo",Fox 
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/yy04fmvkkepn7ml/fox-life-us.png?dl=1" group-title="Fox & Hbo",Foxlife
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/gp3i0qzufluf0g5/fox_crime_global.png?dl=1" group-title="Fox & Hbo",Fox Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/4zv0gnxx2fs7qto/fox_movies_asia.png?dl=1" group-title="Fox & Hbo",Fox Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iskko6wbo8tqla8/fox_movies_action.png?dl=1" group-title="Fox & Hbo", Fox action movies
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/iskko6wbo8tqla8/fox_movies_action.png?dl=1" group-title="Fox & Hbo", Fox action movies HD
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/lygxw47yslrggjv/fox_movies_family.png?dl=1" group-title="Fox & Hbo",FoxFamilyMovie
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/1l1ra5tzw2uty6m/hbo_asia.png?dl=1" group-title="Fox & Hbo",HBO 
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAAZUolL9kiSgoVhlwQ21zY2a/HBO.m3u8?dl=0
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/1l1ra5tzw2uty6m/hbo_asia.png?dl=1" group-title="Fox & Hbo",HBO 
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/goxr9ust2r565bs/hbo_signature_asia.png?dl=1" group-title="Fox & Hbo",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cw75qvak1kxciku/hbo_hits.png?dl=1" group-title="Fox & Hbo",HBO Hits 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/goxr9ust2r565bs/hbo_signature_asia.png?dl=1" group-title="Fox & Hbo",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-# #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-# https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-
-
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/813fu2z21vtkbrh/hbo_family_asia.png?dl=1" group-title="Fox & Hbo",HBO Family 
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AAAHBd21ZZF90aBXkMM6JMUTa/HBO FAMILY.m3u8?dl=0 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/813fu2z21vtkbrh/hbo_family_asia.png?dl=1" group-title="Fox & Hbo",HBO Family 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=WmAH4TlOSLquNm9os2qzNm9DI35GAceSQ9ac7CPmWkZ~rUNr8reKyLradmMKuHYQF4d68HmOwVGF5WM2rsn3POJDe4t8wR9xnsIITgslI9wWGjpUWOGEeDf-g88kTUoeDwi-YwlW4MdgKMGSa~OpdDm19XygFpit2IlmpZi3KtBl7p~vxrlx30SjOdC06Bj6vC~aUX5bFO2~L9osDwlhREJytLYDfPN8hf2w8T3vnEsjoYuueMvGZUk0nxDKXj3BMrHv2C-w8Hfx83PIyJ5Qp1dIfWBXXGmOBELzvyh7f04G0gLWr8I-mS6yQDG-v~ON5CnO0FmloihQtCaEaABUIg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ms2ku9q0xqqyzsz/cinemax-asia-us.png?dl=1" group-title="Fox & Hbo",CINEMAX 
-https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ms2ku9q0xqqyzsz/cinemax-asia-us.png?dl=1" group-title="Fox & Hbo",CINEMAX 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=KBhaAaXrCwMsBkDFHC9LeTOVZVQql64ghSq~JRl-f4IAhjLP8irJ04K0dO5SZfXZPsKB0q-uDJeTkg-FVHp-Vrx9KXPMMm8TVIGUVo8G~l2kiQC394BSLeILiLRUwd37sIiaFLvhYYfdY3nutd8DLqycvvA38FT1XXcdC225uoMT97ifxQ9Cmsp9VKsr3PWSZrXcYgXqf4GzdZasxjxLRFyKjml7R21sgGoWwrJ7yuyG5e44QsaZuHlJJtLgU3uCt4wSacE15LW57hu49sEPTHhHBhzbPu6Jv8fDh1ffpcxnVp3rbMYAmmkbMVCws5pvi-tUfYt0nY5hLB4BNP5QdA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Fox & Hbo" tvg-id="" tvg-name"AXN ",AXN 
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/ccm.png" group-title="Fox & Hbo",CCM 
-http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="Fox & Hbo" tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png", &Prive 
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8   
-#EXTINF:-1 group-title="Fox & Hbo" tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png", &Flix 
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8                     
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pix_in.png" group-title="Fox & Hbo", SONY PIX HD
-http://iptv.tvmalaysia.cc/932633/932633/8213
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhCjx0s4/A-H-M.png" group-title="Fox & Hbo",Action Hollywood Movies
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="Fox & Hbo",AMERICAN HORRORS
-http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
-
-#EXTINF:-1 tvg-id="Erz.rcti" tvg-logo="https://www.freepnglogos.com/uploads/lion-logo-png/king-emblem-lion-image-png-9.png" group-title="amem@Local", RCTI
-https://iptvid.cgflix.xyz/lokal/rcti.m3u8
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.freepnglogos.com/uploads/lion-logo-png/king-emblem-lion-image-png-9.png"  group-title="amem@Local", MNCTV
-https://iptvid.cgflix.xyz/lokal/mnctv.m3u8
-#EXTINF:-1 tvg-id="Erz.gtv" tvg-logo="https://pbs.twimg.com/profile_images/1346771276317085696/N5bjSnvm_400x400.jpg" group-title="amem@Local", GTV
-https://iptvid.cgflix.xyz/lokal/gtv.m3u8
-#EXTINF:-1 tvg-id="Erz.indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZzOKCWZcdQTbxvueQaVaDKqW_Lpp-4pNtQ&usqp=CAU" group-title="amem@Local",INDOSIAR
-https://iptvid.cgflix.xyz/lokal/indosiar.m3u8
-#EXTINF:-1 tvg-id="Erz.trans7" tvg-logo="https://pbs.twimg.com/profile_images/1252514203799220224/FY5oXfOm_400x400.jpg" group-title="amem@Local",TRANS 7
-https://iptvid.cgflix.xyz/lokal/trans7.m3u8
-#EXTINF:-1 tvg-id="Erz.transtv" tvg-logo="https://pbs.twimg.com/profile_images/841500796311101440/90eaFskg_400x400.jpg" group-title="amem@Local",TRANS TV
-https://iptvid.cgflix.xyz/lokal/transtv.m3u8
-#EXTINF:-1 tvg-id="Erz.sctv" tvg-logo="https://pbs.twimg.com/profile_images/1260941238473129985/QCSgHIeO_400x400.jpg" group-title="amem@Local",SCTV
-https://iptvid.cgflix.xyz/lokal/sctv.m3u8
-#EXTINF:-1 tvg-id="Erz.net" tvg-logo="https://pbs.twimg.com/profile_images/1361146630527807489/ZvWs_0w7_400x400.jpg" group-title="amem@Local",NET.
-https://iptvid.cgflix.xyz/lokal/net.m3u8
-#EXTINF:-1 tvg-id="Erz.kompas" tvg-logo="https://pbs.twimg.com/profile_images/1371327041509810177/5XZxIVtV_400x400.jpg" group-title="amem@Local",KOMPAS TV
-https://iptvid.cgflix.xyz/lokal/kompas.m3u8
-#EXTINF:-1 tvg-id="Erz.metrotv" tvg-logo="https://pbs.twimg.com/profile_images/1358658157115965441/XZIAzyrZ_400x400.jpg" group-title="amem@Local",METRO TV
-https://iptvid.cgflix.xyz/Usee/lokal/metrotv.m3u8
-#EXTINF:-1 tvg-id="Erz.inews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtn67myVr_jb4DjGGVssqB2BN7Fy3K6Y0tA&usqp=CAU" group-title="amem@Local", iNEWS
-https://iptvid.cgflix.xyz/lokal/inews.m3u8
-#EXTINF:-1 tvg-id="Erz.antv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNBe8wanHh_L-O0XxX-rl8D1K5QYpb90dyXA&usqp=CAU" group-title="amem@Local",ANTV
-https://iptvid.cgflix.xyz/lokal/antv.m3u8
-#EXTINF:-1 tvg-id="Erz.tvone" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcoiYwYUdhCLdVF5YHWQiOr2Gfhbc7DbF2w&usqp=CAU" group-title="amem@Local",TVONE
-https://iptvid.cgflix.xyz/lokal/tvone.m3u8
-#EXTINF:-1 tvg-id="Erz.cnn_id" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="amem@Local",CNN INDONESIA
-https://iptvid.cgflix.xyz/lokal/cnnid.m3u8
-#EXTINF:-1 tvg-id="Erz.cnbc_id" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="amem@Local",CNBC INDONESIA
-https://iptvid.cgflix.xyz/lokal/cnbcid.m3u8
-#EXTINF:-1 tvg-id="Erz.jktglobenews" tvg-logo="https://pbs.twimg.com/profile_images/676712736915480576/aSBabZsd_400x400.jpg" group-title="amem@Local",JAKARTA GLOBE NEWS
-https://iptvid.cgflix.xyz/lokal/jgn.m3u8
+#EXTINF:-1 group-title="SPROTMIX",BEIN SPORT NEWS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/794
+#EXTINF:-1 group-title="SPROTMIX",BEINSPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/795
+#EXTINF:-1 group-title="SPROTMIX",CANAL+ SPORT  HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/809
+#EXTINF:-1 group-title="SPROTMIX",RMC SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/810
+#EXTINF:-1 group-title="SPROTMIX",RMC SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/811
+#EXTINF:-1 group-title="SPROTMIX",CANAL+ SPORT SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/857
+#EXTINF:-1 group-title="SPROTMIX",RMC SPORT 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/858
+#EXTINF:-1 group-title="SPROTMIX",RMC SPORT 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+http://65.21.32.185:80/1airmaxtvben99/4L8Q1FJWcX/859
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

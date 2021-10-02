@@ -1,8 +1,29 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLLt3y.jpg",SPOTV 
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLLt3y.jpg" group-title="SPROT",SPOTV 
 https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLOBu2.jpg",SPOTV 2 
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLLt3y.jpg" group-title="SPROT",SPOTV 2
 https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/twfQHi4AgdV4pJjeOKhKrwTmp-m6SjA_W-Tw1K9kartIjnlWNozMlC4azMHx7Y730x5nAO2A67_GsJ8N3BnC8A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+https://centurylink.br.cdn.booyah.live/hls/1000074/84348185.m3u8
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+https://google-me.cdn.booyah.live/hls/113138/83188269.m3u8
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+https://google-me.cdn.booyah.live/hls/113138/83188269.m3u8
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+https://bal.varcdn1.ru/lb/setantasport/index.m3u8
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+http://31.220.41.86:8081/live/klub1.stream/chunks.m3u8
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

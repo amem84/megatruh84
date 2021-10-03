@@ -17,19 +17,19 @@ https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLLt3y.jpg" group-title="SPROT",SPOTV 2
 https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
-#EXTINF:-1, group-title="LIVE EPL", LIVE LIGA 1 FRANCE
+#EXTINF:-1 group-title="LIVE EPL", LIVE LIGA 1 FRANCE
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE LIGA 1 FRANCE
+#EXTINF:-1 group-title="LIVE EPL", LIVE LIGA 1 FRANCE
 https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE LIGA 1 FRANCE
+#EXTINF:-1 group-title="LIVE EPL", LIVE LIGA 1 FRANCE
 https://d2rtiwek0rf8d1.cloudfront.net:443/out/v1/570616bde9e24732a93107a86cae8ccf/index_2.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE LIGA 1 FRANCE
+#EXTINF:-1 group-title="LIVE EPL", LIVE LIGA 1 FRANCE
 https://bal.varcdn1.ru/lb/m1/index.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE LIGA 1 FRANCE
+#EXTINF:-1 group-title="LIVE EPL", LIVE LIGA 1 FRANCE
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE LIGA 1 FRANCE
+#EXTINF:-1 group-title="LIVE EPL", LIVE LIGA 1 FRANCE
 http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7329/index.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE LIGA 1 FRANCE
+#EXTINF:-1 group-title="LIVE EPL", LIVE LIGA 1 FRANCE
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 
 #EXTINF:-1, group-title="LIVE EPL", LIVE EPL

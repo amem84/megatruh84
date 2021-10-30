@@ -1,28 +1,18 @@
 #EXTM3U
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-https://akamai2-br.cdn.booyah.live/hls/1500011/79691263.m3u8?d=https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-https://d2rtiwek0rf8d1.cloudfront.net:443/out/v1/570616bde9e24732a93107a86cae8ccf/index_2.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-https://rtmp.loola.tv:8081/hlspush/1B9Xx2-Z27E7Lk.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-https://d2rtiwek0rf8d1.cloudfront.net:443/out/v1/570616bde9e24732a93107a86cae8ccf/index_1.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-https://d39o0szdxtefxu.cloudfront.net/media/ch1_1080p30.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113132/85565524.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-https://tv1.calcio01.pw/live/liver.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-https://178.17.167.58/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-http://cdn.raino.xyz:80/mma/stream1-version1/rainostream.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
-#EXTINF:-1, group-title="LIVE EPL", LIVE EPL
-http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+https://d2aq0cqe581r5t.cloudfront.net:443/out/v1/c7b13917082e40f6af9199e4cbf085da/playlist_2.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+https://d3psd9b1q71k7a.cloudfront.net:443/out/v1/aeb66dbf26e14517b7f041805f21148e/index_2.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+http://bal.varcdn1.ru/lb/b5/index.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

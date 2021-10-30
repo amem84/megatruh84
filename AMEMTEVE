@@ -1,19 +1,25 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://d2aq0cqe581r5t.cloudfront.net:443/out/v1/c7b13917082e40f6af9199e4cbf085da/playlist_2.m3u8
+https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
 #EXTINF:-1 group-title="LIVE EPL", LIVE EPL
 https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
 #EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://d3psd9b1q71k7a.cloudfront.net:443/out/v1/aeb66dbf26e14517b7f041805f21148e/index_2.m3u8
+https://d1byn3mzeo9v49.cloudfront.net:443/out/v1/1390146ec69b46948f9d7ccd7e0961a0/index_2.m3u8
 #EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8
+https://google-me.cdn.booyah.live/hls/113130/93331708.m3u8
 #EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
 #EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-http://bal.varcdn1.ru/lb/b5/index.m3u8
+https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
 #EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://d3psd9b1q71k7a.cloudfront.net/out/v1/aeb66dbf26e14517b7f041805f21148e/index.m3u8
-
+http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80034.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+http://vipeiptv.com:25461/live/camila2020/camila2020/925565.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+http://b1.amanrouf.xyz/live/616165500/index.m3u8
+#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
+http://vipeiptv.com:25461/live/camila2020/camila2020/925565.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 002  
@@ -66,7 +72,7 @@ http://www.supercartube.com/media/videos/h264/170_480p.mp4
 http://www.supercartube.com/media/videos/h264/171_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 026  
 http://www.supercartube.com/media/videos/h264/172_480p.mp4
-
+ 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtjMm7x5/g.jpg"group-title="VOD JAV",DVAJ-0057
 http://video1.feimanzb.com:8091/20180115/DVAJ-0057-C/550kb/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtjMm7x5/g.jpg"group-title="VOD JAV",EQ-243

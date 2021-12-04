@@ -20,10 +20,18 @@ https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/in
 #EXTINF:-1 group-title="EPL", LIVE 10
 https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/index.m3u8?ZAnA_IPTV.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg" group-title="OTO",SPO TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+#EXTINF:-1 group-title="SERIE A", LIVE 1
+https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="SERIE A", LIVE 1
+https://tv4.calcio02.pw/live/milan.m3u8
+#EXTINF:-1 group-title="SERIE A", LIVE 1
+http://cdn2.cyclingnews.live/hls/P1.m3u8
+#EXTINF:-1 group-title="SERIE A", LIVE 1
+https://d2kqb0epeee20k.cloudfront.net/out/v1/d057754e88a3416f9ee23e750aefe250/index.m3u8?from=other&vsid=6f2387c30b58cf1deb322ae7093a5a9f6a37c93a18d3xWEBx0005x1638625181&adsid=a2626942fbf1f231ad916da4510e885212335c0ba76dxWEBx0005x1638625181&t=1638625183350&abd=1
+#EXTINF:-1 group-title="SERIE A", LIVE 1
+http://77.247.109.111/hls/T1.m3u8
+#EXTINF:-1 group-title="SERIE A", LIVE 1
+http://195.9.195.2/hls/188904.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  

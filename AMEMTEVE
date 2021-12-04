@@ -17,6 +17,8 @@ https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/in
 https://tv1.calcio02.pw/live/chelsea.m3u8
 #EXTINF:-1 group-title="EPL", LIVE 9
 https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/index.m3u8
+#EXTINF:-1 group-title="EPL", LIVE 10
+https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/index.m3u8?ZAnA_IPTV.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg" group-title="OTO",SPO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

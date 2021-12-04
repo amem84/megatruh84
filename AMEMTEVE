@@ -1,25 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://d1byn3mzeo9v49.cloudfront.net:443/out/v1/1390146ec69b46948f9d7ccd7e0961a0/index_2.m3u8
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113130/93331708.m3u8
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-https://google-me.cdn.booyah.live/hls/113132/85351102.m3u8
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-http://pyramidsiptv.com:8080/live/mohamed/mohamed123/80034.m3u8
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-http://vipeiptv.com:25461/live/camila2020/camila2020/925565.m3u8
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-http://b1.amanrouf.xyz/live/616165500/index.m3u8
-#EXTINF:-1 group-title="LIVE EPL", LIVE EPL
-http://vipeiptv.com:25461/live/camila2020/camila2020/925565.m3u8
- 
+#EXTINF:-1 group-title="EPL", LIVE 1
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/2A32Lw4S7zumHqF-ca2HomEvI_qKEEgBXAnwachWixvPwEQTcnK8cGJ6zmfhtqU_cgE_ojcbAAJ2WqPDfvOYGA/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="EPL", LIVE 2
+http://g15.aminouras.xyz/live/6161655001/index.m3u8
+#EXTINF:-1 group-title="EPL", LIVE 3
+http://mo3ad.xyz:8080/live/mo3ad7s5g0/mo3ad7s5g0/1.m3u8
+#EXTINF:-1 group-title="EPL", LIVE 4
+https://bal.varcdn1.ru/lb/setantasport/index.m3u8
+#EXTINF:-1 group-title="EPL", LIVE 5
+https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/index.m3u8
+#EXTINF:-1 group-title="EPL", LIVE 6
+http://cdn1.cyclingnews.live/hls/M1.m3u8
+#EXTINF:-1 group-title="EPL", LIVE 7
+https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/index.m3u8?from=other&vsid=5095718c09927318f0e331159513516ef75f3288d531xWEBx0005x1638620401&adsid=a497b4639c933df56fa97cfec5f682d0329fe6faa33dxWEBx0005x1638620401&t=1638620403083&abd=1
+#EXTINF:-1 group-title="EPL", LIVE 8
+https://tv1.calcio02.pw/live/chelsea.m3u8
+#EXTINF:-1 group-title="EPL", LIVE 9
+https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg" group-title="OTO",SPO TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 002  
@@ -72,7 +76,7 @@ http://www.supercartube.com/media/videos/h264/170_480p.mp4
 http://www.supercartube.com/media/videos/h264/171_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 026  
 http://www.supercartube.com/media/videos/h264/172_480p.mp4
- 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtjMm7x5/g.jpg"group-title="VOD JAV",DVAJ-0057
 http://video1.feimanzb.com:8091/20180115/DVAJ-0057-C/550kb/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtjMm7x5/g.jpg"group-title="VOD JAV",EQ-243

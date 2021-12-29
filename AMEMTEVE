@@ -5,6 +5,8 @@ http://mvtv.tech:25461/Special/Aff/177
 http://mvtv.tech:25461/Special/Aff/178
 #EXTINF:-1 tvg-id="ChampionTV3.id" tvg-name="Champions TV3" tvg-logo="https://nuvella.my.id/logo/MVTV_LOGO/SPORTS/CTV3.png" group-title="Live Event",Champions TV3
 http://mvtv.tech:25461/Special/Aff/179
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://nuvella.my.id/logo/MVTV_LOGO/NASIONAL/RCTI.png" group-title="Live Event",RCTI
+http://mvtv.tech:25461/Special/Aff/20
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

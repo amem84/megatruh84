@@ -1,36 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="EPL", LIVE 1
-https://d30hvdcu9nohdv.cloudfront.net/out/v1/2a09d9d227a442e3a72cddfdf5dfe4a1/index.m3u8?ZAnA_IPTV.m3u8
-#EXTINF:-1 group-title="EPL", LIVE 2
-https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/index.m3u8?ZAnA_IPTV.m3u8
-#EXTINF:-1 group-title="EPL", LIVE 3
-http://ZAnA@hdmatch.xyz/21202.html
-#EXTINF:-1 group-title="EPL", LIVE 4
-http://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_480p.m3u8?session_id=NoUaAzNkk8rA&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=45.163.154.29&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=52269a3b&expired=1638644420&token=34CC7D3D643BEB503BAFBC1FECAE3F17&media_code=m3_ScQBL06LuJftF_264
-#EXTINF:-1 group-title="EPL", LIVE 5
-http://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/-Z_pGdUvvdEshV_6p_nEpf4MtpIquhqn91PMSZLl593R63f9LuDjLS5GMrm2V43MgjMQFNh0sk7lSflc0TN0pg/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8
-#EXTINF:-1 group-title="EPL", LIVE 6
-https://d22qx226t06pmw.cloudfront.net:443/out/v1/7f5f87c1a8374727b802816807a48ae3/index_2.m3u8?from=other&vsid=39af341595d29ac01cccf7bc18886d282a2dc5315594xWEBx0005x1638629396&adsid=a24626450a8c670b8af17f0a055f0118644ca597633exWEBx0005x1638629396&session_data=1&preview=1&t=1638629398697
-#EXTINF:-1 group-title="EPL", LIVE 7
-https://tv1.calcio02.pw/live/liver.m3u8
-#EXTINF:-1 group-title="EPL", LIVE 8
-https://d30hvdcu9nohdv.cloudfront.net/out/v1/2a09d9d227a442e3a72cddfdf5dfe4a1/index.m3u8
-#EXTINF:-1 group-title="EPL", LIVE 9
-https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/index.m3u8
-
-#EXTINF:-1 group-title="SERIE A", LIVE 1
-https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 group-title="SERIE A", LIVE 2
-https://tv4.calcio02.pw/live/milan.m3u8
-#EXTINF:-1 group-title="SERIE A", LIVE 3
-http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:-1 group-title="SERIE A", LIVE 4
-https://d2kqb0epeee20k.cloudfront.net/out/v1/d057754e88a3416f9ee23e750aefe250/index.m3u8?from=other&vsid=6f2387c30b58cf1deb322ae7093a5a9f6a37c93a18d3xWEBx0005x1638625181&adsid=a2626942fbf1f231ad916da4510e885212335c0ba76dxWEBx0005x1638625181&t=1638625183350&abd=1
-#EXTINF:-1 group-title="SERIE A", LIVE 5
-http://77.247.109.111/hls/T1.m3u8
-#EXTINF:-1 group-title="SERIE A", LIVE 6
-http://195.9.195.2/hls/188904.m3u8
-
+#EXTINF:-1 tvg-id="ChampionTV1.id" tvg-name="Champions TV1" tvg-logo="https://nuvella.my.id/logo/MVTV_LOGO/SPORTS/CTV1.png" group-title="Live Event",Champions TV1
+http://mvtv.tech:25461/Special/Aff/177
+#EXTINF:-1 tvg-id="ChampionTV2.id" tvg-name="Champions TV2" tvg-logo="https://nuvella.my.id/logo/MVTV_LOGO/SPORTS/CTV2.png" group-title="Live Event",Champions TV2
+http://mvtv.tech:25461/Special/Aff/178
+#EXTINF:-1 tvg-id="ChampionTV3.id" tvg-name="Champions TV3" tvg-logo="https://nuvella.my.id/logo/MVTV_LOGO/SPORTS/CTV3.png" group-title="Live Event",Champions TV3
+http://mvtv.tech:25461/Special/Aff/179
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

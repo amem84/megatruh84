@@ -10,7 +10,11 @@ https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/0R9L3L64yDOyIh32l
 #EXTINF:-1 group-title="BOLA LIVE",LIVE EPL
 https://live-ak.vimeocdn.com/exp=1642343175~acl=%2F944ce222-798f-45ed-9791-b63c80ff1caf%2F%2A~hmac=26be60c41fe84f2417ced1749a0200bb6b3eb00e5cf0f944ee45c26204ec86db/944ce222-798f-45ed-9791-b63c80ff1caf/hls.m3u8?ZAnA_IPTV.m3u8
 #EXTINF:-1 group-title="BOLA LIVE",LIVE EPL
-http://ZAnA@hdmatch.xyz/brentford-liverpool-672
+http://bal.varcdn1.ru/lb/b5/index.m3u8
+#EXTINF:-1 group-title="BOLA LIVE",LIVE EPL
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/pv5jqykZeM4IzTJIE2tnrzE8-9lFrQDEME8f910jCtrl25QaC8O_cUkPqi6COa-g4YaLdfgLhsf8OyrCkuF-FA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8
+#EXTINF:-1 group-title="BOLA LIVE",LIVE EPL
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/hW51fg4aNWLBN5FaCIQJtAs4xMO8Da6TcPQNpXet_VRY87vGeBo9455C5cj8AstrMfjeI5nsxI7OV-jEmjQEEw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmxqc19/kimetsu.jpg" group-title="Kimetsu no Yaiba",Episode 001  
 http://www.supercartube.com/media/videos/h264/145_360p.mp4

@@ -3,6 +3,18 @@
 http://45.148.26.176/hls/M1.m3u8?ZAnA_IPTV.m3u8
 #EXTINF:-1 group-title="LIVE EPL", BURNLEY v LIVERPOOL
 http://45.134.21.199/hls/S1.m3u8?ZAnA_IPTV.m3u8
+#EXTINF:-1 group-title="LIVE", BURNLEY v LIVERPOOL
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/aGxgM8G9mhOrcFm9WzGA7dP-mSg_CxW_1VfFK2AIU9307W3zPMRQb-dvnNXUueMNcAGzhZDDkDCMqyQhAUmWbg/transcode/sa-east-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="LIVE", BURNLEY v LIVERPOOL
+https://live-ak.vimeocdn.com/exp=1644763022~acl=%2F3714848b-2bb8-4997-98a0-da1d6b9d8afb%2F%2A~hmac=f017872d54bdbff899fb70b4b977971a546422ab20974b55731b8dd62aa76a9f/3714848b-2bb8-4997-98a0-da1d6b9d8afb/chunklist_b2056000.m3u8
+#EXTINF:-1 group-title="LIVE", BURNLEY v LIVERPOOL
+https://live-ak.vimeocdn.com/exp=1644763022~acl=%2F3714848b-2bb8-4997-98a0-da1d6b9d8afb%2F%2A~hmac=f017872d54bdbff899fb70b4b977971a546422ab20974b55731b8dd62aa76a9f/3714848b-2bb8-4997-98a0-da1d6b9d8afb/chunklist_b3256000.m3u8?max_segments=10
+#EXTINF:-1 group-title="LIVE", BURNLEY v LIVERPOOL
+http://45.148.26.176/hls/M1.m3u8
+#EXTINF:-1 group-title="LIVE", BURNLEY v LIVERPOOL
+http://45.134.21.199/hls/S1.m3u8
+#EXTINF:-1 group-title="LIVE", BURNLEY v LIVERPOOL
+https://live-ak.vimeocdn.com/exp=1644763022~acl=%2F3714848b-2bb8-4997-98a0-da1d6b9d8afb%2F%2A~hmac=f017872d54bdbff899fb70b4b977971a546422ab20974b55731b8dd62aa76a9f/3714848b-2bb8-4997-98a0-da1d6b9d8afb/chunklist_b6256000.m3u8
 #EXTINF:-1 group-title="LIVE EPL", SPURS v WOLVES
 http://cdn2.cyclingnews.live/hls/P2.m3u8?ZAnA_IPTV.m3u8
 

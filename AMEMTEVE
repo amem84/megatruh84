@@ -9,6 +9,10 @@ https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/CF_ULHvnG8ESnM2MHXpED
 http://cdn2.cyclingnews.live/hls/P1.m3u8
 #EXTINF:-1 group-title="LIVE SERIE A", AC MILAN v SAMPDORIA
 https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_480p.m3u8?session_id=pXxENpvpN7XE&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=2804:5484:a:b6e0:b03b:7231:2f79:efec&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=47ee8c47&expired=1644762770&token=B9190D3A38C88099B21BE077A3F49E22&media_code=m3_ScQBL06LuJftF_264
+#EXTINF:-1 group-title="LIVE SERIE A", AC MILAN v SAMPDORIA
+https://tv4.calcio02.pw/live/milan.m3u8
+#EXTINF:-1 group-title="LIVE SERIE A", AC MILAN v SAMPDORIA
+https://sl24.varcdn1.ru/m2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtjMm7x5/g.jpg"group-title="VOD JAV",DVAJ-0057
 http://video1.feimanzb.com:8091/20180115/DVAJ-0057-C/550kb/hls/index.m3u8
